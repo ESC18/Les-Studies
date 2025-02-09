@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8"> <!-- Character encoding -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Responsive design -->
+  <title>Le's Studies</title> <!-- Page title -->
+  <link rel="stylesheet" href="styles.css"> <!-- External stylesheet -->
+</head>
+
+<body>
+  <!-- Header: Site title and search bar -->
+  <header>
+    <h1>Le's Studies</h1>
+    <input type="text" id="search-bar" placeholder="Search">
+  </header>
+
+  <!-- Subheaders for Recommended Studies and Search Results -->
+  <div id="recommended-studies-subheader" class="subheader">
+    <h2>Recommended Studies</h2>
+  </div>
+  <div id="search-results-subheader" class="subheader" style="display: none;">
+    <h2>Search results:</h2>
+  </div>
+
+  <!-- Container for Recommended Studies -->
+  <div id="recommended-container"></div>
+
+  <!-- Verse Cubes Section -->
+  <div id="verse-cubes-subheader" class="subheader">
+    <h2>Verse Cubes</h2>
+  </div>
+  <div id="verse-cubes">
+    <div class="verse-cube" data-subject="love">Love</div>
+    <div class="verse-cube" data-subject="hope">Hope</div>
+    <div class="verse-cube" data-subject="peace">Peace</div>
+    <div class="verse-cube" data-subject="joy">Joy</div>
+    <div class="verse-cube" data-subject="depression">Depression</div>
+    <div class="verse-cube" data-subject="discipleship">Discipleship</div>
+    <div class="verse-cube" data-subject="repentance">Repentance</div>
+    <div class="verse-cube" data-subject="prayer">Prayer</div>
+    <div class="verse-cube" data-subject="god-character">God's Character</div>
+  </div>
+
+  <!-- Modal for Verse Cubes -->
+  <div id="verse-modal" class="modal">
+    <div class="modal-content">
+      <span class="modal-close">X</span>
+      <p id="modal-quote"></p>
+    </div>
+  </div>
+
+  <!-- Subheader for All Studies -->
+  <div id="all-studies-subheader" class="subheader">
+    <h2>All Studies</h2>
+  </div>
+  <!-- Container for All Studies -->
+  <div id="study-container"></div>
+
+  <!-- Footer: Bible Translation Controls -->
+  <footer id="footer">
+    <div id="current-translation">NIV</div>
+    <div id="translation-scrollbar">
+      <div class="translation-option" data-translation="NIV">NIV</div>
+      <div class="translation-option" data-translation="ESV">ESV</div>
+      <div class="translation-option" data-translation="NKJV">NKJV</div>
+      <div class="translation-option" data-translation="KJV">KJV</div>
+      <div class="translation-option" data-translation="CSB">CSB</div>
+      <div class="translation-option" data-translation="NASB">NASB</div>
+      <div class="translation-option" data-translation="CEB">CEB</div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

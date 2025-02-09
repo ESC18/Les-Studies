@@ -1,0 +1,325 @@
+/* Basic Dark Mode Styling */
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;  /* Set the primary font */
+    background-color: black;                           /* Dark background color */
+    color: #f1f1f1;                                    /* Light text color for dark theme */
+    margin: 0;                                         /* Remove default margin */
+    padding: 0;                                        /* Remove default padding */
+    padding-bottom: 60px;
+}
+
+header {
+    padding: 10px 20px;                                /* Padding inside the header */
+    background-color: black;                           /* Header background color */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);         /* Subtle shadow for depth */
+}
+
+/* Subheader Styles */
+.subheader {
+    padding: 10px 20px;                                /* Padding around subheaders */
+    margin-top: 20px;                                  /* Space above subheaders */
+    transition: opacity 0.3s ease;                     /* Smooth opacity transition */
+}
+
+.subheader h2 {
+    color: #f1f1f1;                                   /* Light text color */
+    font-size: 24px;                                   /* Large enough for visibility */
+    font-weight: bold;                                 /* Bold text */
+    margin: 0;                                        /* Remove default margin */
+}
+
+h1 {
+    font-size: 36px;                                  /* Main heading size */
+    font-weight: 600;                                 /* Semi-bold */
+    margin: 0;                                        /* Remove margin */
+    color: #ffbd2e9c;                                 /* Golden color */
+}
+
+#search-bar {
+    width: calc(100% - 8px);                           /* Full width minus padding */
+    padding: 4px;                                     /* Inner padding */
+    margin-top: 5px;                                  /* Top margin */
+    font-size: 16px;                                  /* Readable font size */
+    border: 0px solid #444;                           /* Border style */
+    border-radius: 8px;                               /* Rounded corners */
+    background-color: #333;                           /* Dark background for input */
+    color: #fff;                                      /* White text */
+    transition: box-shadow 0.3s ease, background-color 0.3s ease; /* Smooth transitions */
+}
+
+#search-bar:focus {
+    border: none;                                    /* Remove border on focus */
+    outline: none;                                   /* Remove outline */
+    box-shadow: 0 0 8px rgba(255, 189, 46, 0.5);       /* Glow effect on focus */
+}
+
+/* Study Container */
+#study-container {
+    padding: 0px 20px;                                /* Horizontal padding */
+    max-width: calc(100vw - 40px);                                /* Maximum width */
+    margin: 0 auto;                                   /* Center the container */
+    background-color: black;                          /* Black background */
+    border-radius: 12px;                              /* Rounded corners */
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.4);        /* Subtle shadow */
+    overflow-y: auto;                                 /* Vertical scrolling if needed */
+    transition: all 0.3s;                             /* Smooth overall transition */
+}
+
+/* Study Note Styles */
+.study-note {
+    padding: 1px 0px 1px 10px;                         /* Padding inside each note */
+    background-color: #2a2a2a;                         /* Darker background for notes */
+    border-radius: 10px;                               /* Rounded corners */
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.4);         /* Subtle shadow */
+    margin-bottom: 3px;                                /* Space between notes */
+    cursor: pointer;                                  /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Transition for hover effects */
+}
+
+.study-note:hover {
+    background-color: #3a3a3a;                         /* Lighter on hover */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);           /* Stronger shadow on hover */
+}
+
+.study-title {
+    font-size: 20px;                                  /* Title size */
+    color: #f1f1f1;                                   /* Title text color */
+}
+
+.study-description {
+    font-size: 14px;                                  /* Description font size */
+    color: #bbb;                                     /* Slightly lighter color */
+    transition: max-height 0.3s ease;                 /* Transition for height change */
+}
+
+/* Expandable Full Study Section */
+.full-study {
+    max-height: 0;                                   /* Collapsed state */
+    overflow: hidden;                                /* Hide content when collapsed */
+    padding-top: 0;                                  /* Remove top padding initially */
+    transition: max-height 0.4s ease;                /* Smooth height transition */
+}
+
+.study-note.extended .full-study {
+    max-height: 50000px;                               /* Expanded state (adjust as needed) */
+    padding-top: 15px;                               /* Add padding when expanded */
+}
+
+/* Close Button for Full Study */
+.full-study .close-btn {
+    position: absolute;                              /* Absolute positioning */
+    top: 10px;                                       /* From the top */
+    right: 10px;                                     /* From the right */
+    background-color: #444;                          /* Dark background */
+    color: #f1f1f1;                                  /* Light text */
+    border: none;                                    /* No border */
+    font-size: 20px;                                 /* Large text */
+    cursor: pointer;                                 /* Pointer cursor */
+}
+
+.quote {
+    color: #995;            /* Adjust this to your desired darker color */
+    padding-left: 20px;      /* Increase side padding as needed */
+    padding-right: 30px;
+    margin: 10px 0;         /* Optional: add vertical spacing */
+  }
+
+/* Bible Quote Styles */
+.bible-quote {
+    font-size: 14px;                                 /* Quote font size */
+    line-height: 1.6;                                /* Readable line height */
+    display: none;                                   /* Hidden by default */
+}
+
+.bible-quote.active {
+    display: block;                                  /* Display active quote */
+}
+
+/* Set the color for verse numbers */
+.verse-number {
+    color: #92b0c9;  /* Change this to whatever color you like */
+  }
+  
+  /* Set the color for the reference text */
+  .quote-reference {
+    color: #ce4f4f;  /* For example, a slightly darker gray; adjust as needed */
+  }
+  
+
+/* Translation Tab (if used) */
+#translation-tab {
+    position: fixed;                                 /* Fixed positioning */
+    bottom: 20px;                                    /* From the bottom */
+    right: 20px;                                     /* From the right */
+    width: 40px;                                     /* Width */
+    height: 200px;                                   /* Height */
+    background-color: #333;                          /* Dark background */
+    border-radius: 10px;                             /* Rounded corners */
+    cursor: pointer;                                 /* Pointer cursor */
+}
+
+.tab-indicator {
+    position: absolute;                              /* Absolute positioning */
+    top: 50%;                                        /* Center vertically */
+    left: 50%;                                       /* Center horizontally */
+    width: 10px;                                     /* Width */
+    height: 50px;                                    /* Height */
+    background-color: #fff;                          /* White color */
+    border-radius: 5px;                              /* Rounded corners */
+    transform: translate(-50%, -50%);                /* Centering transform */
+}
+
+.first-study {
+    border-radius: 10px 10px 0px 0px;                 /* Top corners rounded */
+}
+
+.last-study {
+    border-radius: 0px 0px 10px 10px;                 /* Bottom corners rounded */
+}
+
+/* Verse Cubes CSS: 3x3 grid */
+#verse-cubes {
+    display: grid;                                   /* Use grid layout */
+    grid-template-columns: repeat(3, 1fr);           /* Three equal columns */
+    gap: 10px;                                       /* Gap between items */
+    margin-top: 0px;                                 /* No top margin */
+    padding-left: 20px;                              /* Left padding */
+    padding-right: 20px;                             /* Right padding */
+    transition: opacity 0.3s ease;                   /* Fade transition */
+}
+
+.verse-cube {
+    width: 100%;                                     /* Full width */
+    aspect-ratio: 1/1;                               /* Square shape */
+    display: flex;                                   /* Flex layout */
+    justify-content: center;                         /* Center horizontally */
+    align-items: center;                             /* Center vertically */
+    background-color: #333;                          /* Dark background */
+    color: white;                                    /* White text */
+    cursor: pointer;                                 /* Pointer cursor */
+    font-size: 1em;                                  /* Font size */
+    text-align: center;                              /* Centered text */
+    border-radius: 10px;                             /* Rounded corners */
+    transition: background-color 0.3s ease;          /* Smooth background transition */
+}
+
+.verse-cube:hover {
+    background-color: #218838;                       /* Change color on hover */
+}
+
+/* Modal Styles with z-index and opacity transitions */
+.modal {
+    position: fixed;                                 /* Fixed position covers viewport */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);               /* Semi-transparent background */
+    opacity: 0;                                      /* Fully transparent when inactive */
+    z-index: -1;                                     /* Placed behind functional elements */
+    pointer-events: none;                            /* No pointer events when hidden */
+    transition: opacity 0.3s ease;                   /* Smooth fade transition */
+}
+
+.modal.show {
+    opacity: 1;                                      /* Fully visible when active */
+    z-index: 1000;                                   /* Above other content */
+    pointer-events: auto;                            /* Enable pointer events */
+}
+
+.modal-content {
+    background-color: #2a2a2a;                       /* Modal content background */
+    padding: 20px;                                   /* Inner padding */
+    width: calc(80% - 40px);                          /* Responsive width */
+    max-width: calc(90vw - 40px);                     /* Maximum width */
+    border-radius: 10px;                             /* Rounded corners */
+    position: absolute;                              /* Absolute positioning */
+    top: 50%;                                       /* Center vertically */
+    left: 50%;                                      /* Center horizontally */
+    transform: translate(-50%,-50%);                /* Adjust centering */
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Smooth transform and fade */
+}
+
+/* Modal Close Button */
+.modal-close {
+    color: #f1f1f1;                                  /* Light text */
+    position: absolute;                              /* Absolute positioning */
+    top: 10px;                                       /* From the top */
+    right: 10px;                                     /* From the right */
+    font-size: 18px;                                 /* Font size */
+    cursor: pointer;                                 /* Pointer cursor */
+}
+
+/* Footer Styling */
+#footer {
+    position: fixed;                                 /* Fixed at the bottom */
+    bottom: 0;
+    left: 0;
+    width: 100%;                                     /* Full width */
+    height: 50px;                                    /* Fixed height */
+    background: rgba(50, 50, 50, 0.7);                /* Semi-transparent dark gray */
+    padding: 0px 20px;                                 /* Horizontal padding */
+    display: flex;                                   /* Flex layout */
+    justify-content: center;                         /* Center horizontally */
+    align-items: center;                             /* Center vertically */
+    z-index: 1000;                                   /* High z-index */
+    backdrop-filter: blur(10px);                     /* Blur background */
+    -webkit-backdrop-filter: blur(10px);             /* Safari support */
+}
+
+/* Current Translation Text in Footer */
+#current-translation {
+    color: #ffbd2e9c;                                /* Golden color */
+    font-size: 16px;                                 /* Font size */
+    cursor: pointer;                                 /* Pointer cursor */
+    left: 50%;
+    transform: translate(-50%);
+}
+
+/* Horizontal Container for Translation Options */
+#translation-scrollbar {
+    position: absolute;                              /* Positioned within the footer */
+    bottom: 0;
+    left: 50vw;
+    transform: translate(-50%);
+    width: auto;                                    /* Adjust width automatically */
+    height: 50px;                                   /* Fixed height */
+    display: none;                                  /* Hidden by default */
+    flex-direction: row;                            /* Row layout */
+    justify-content: center;                        /* Center options */
+    align-items: center;                            /* Center options vertically */
+    overflow-x: hidden;                             /* Hide horizontal overflow */
+    transition: opacity 0.3s ease;                  /* Smooth fade transition */
+    
+}
+
+/* Each Translation Option */
+.translation-option {
+    padding: 0px 10px;                              /* Horizontal padding */
+    margin: 0px;                                    /* No margin */
+    color: #ffbd2e9c;                               /* Golden text */
+    font-size: 16px;                                /* Font size */
+    cursor: pointer;                                /* Pointer cursor */
+    transition: background-color 0.3s ease;         /* Smooth background transition */
+}
+
+.translation-option:hover {
+    background-color: rgba(255, 189, 46, 0.2);       /* Change background on hover */
+    border-radius: 4px;                             /* Slight rounding on hover */
+}
+
+/* Border Fix Transition for Search Results */
+.border-fix {
+    border-radius: 10px;                             /* Rounded border */
+    margin-bottom: 5px;                              /* Adjust margin */
+    transition: border 0.2s ease, margin 0.2s ease;   /* Smooth transition */
+}
+
+
+/* Container styling for studies */
+#recommended-container,
+#study-container {
+  max-width: calc(100vw - 40px);  /* Limits the width */
+  margin: 0 auto;    /* Centers the container */
+}
+

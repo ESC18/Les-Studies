@@ -1,0 +1,83 @@
+[
+  {
+    "studyNumber": "3",
+    "recommended": true,
+    "title": "Hope in a dying world",
+    "description": "this is a description I am not really sure what else to add.",
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "hello this is a paragraph"
+      },
+      {
+        "type": "quote",
+        "quotes": {
+          "niv": "16 Don’t be deceived, my dear brothers and sisters. 17 Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows. 18 He chose to give us birth through the word of truth, that we might be a kind of firstfruits of all he created.",
+          "esv": "16 Do not be deceived, my beloved brothers. 17 Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change.[d] 18 Of his own will he brought us forth by the word of truth, that we should be a kind of firstfruits of his creatures.",
+          "nkjv": "16 Do not be deceived, my beloved brethren. 17 Every good gift and every perfect gift is from above, and comes down from the Father of lights, with whom there is no variation or shadow of turning. 18 Of His own will He brought us forth by the word of truth, that we might be a kind of firstfruits of His creatures.",
+          "kjv": "16 Do not err, my beloved brethren.17 Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning. 18 Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.",
+          "csb": "16 Don’t be deceived, my dear brothers and sisters. 17 Every good and perfect gift is from above, coming down from the Father of lights, who does not change like shifting shadows. 18 By his own choice, he gave us birth by the word of truth so that we would be a kind of firstfruits of his creatures.",
+          "nasb": "16 Do not be deceived, my beloved brothers and sisters. 17 Every good thing given and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shifting shadow. 18 In the exercise of His will He gave us birth by the word of truth, so that we would be a kind of first fruits among His creatures.",
+          "ceb": "16 Don’t be misled, my dear brothers and sisters. 17 Every good gift, every perfect gift, comes from above. These gifts come down from the Father, the creator of the heavenly lights, in whose character there is no change at all. 18 He chose to give us birth by his true word, and here is the result: we are like the first crop from the harvest of everything he created."
+        },
+        "reference": "James 1:16-18",
+        "chapter": "",
+        "autoColor": true
+      },
+      {
+        "type": "subheading",
+        "content": "This is a subheading"
+      }
+    ]
+  },
+    {
+      "studyNumber": "1",
+      "recommended": true,
+      "title": "Example Study",
+      "description": "This is an example of a study",
+      "sections": [
+        {
+          "type": "subheading",
+          "content": "The beginning of this example"
+        },
+        {
+          "type": "paragraph",
+          "content": "this is a paragraph"
+        },
+        {
+          "type": "quote",
+          "quotes": {
+            "niv": "16 Don’t be deceived, my dear brothers and sisters. 17 Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows. 18 He chose to give us birth through the word of truth, that we might be a kind of firstfruits of all he created.",
+            "esv": "16 Do not be deceived, my beloved brothers. 17 Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change.[d] 18 Of his own will he brought us forth by the word of truth, that we should be a kind of firstfruits of his creatures.",
+            "nkjv": "",
+            "kjv": "",
+            "csb": "",
+            "nasb": "",
+            "ceb": ""
+          },
+          "reference": "",
+          "chapter": "",
+          "autoColor": true
+        },
+        {
+          "type": "paragraph",
+          "content": "as we can tell I just added a quote above this and now there will be a link below this"
+        },
+        {
+          "type": "link",
+          "content": {
+            "text": "Link",
+            "url": "asd"
+          }
+        },
+        {
+          "type": "subheading",
+          "content": "Conclusion"
+        },
+        {
+          "type": "paragraph",
+          "content": "this is the conclusion to this example"
+        }
+      ]
+    }
+]
