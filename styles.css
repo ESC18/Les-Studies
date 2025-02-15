@@ -1114,3 +1114,17 @@ h1 {
   transform: translateZ(0);
 }
 
+.favorite-star {
+  width: 20px !important;  /* Adjust size as needed */
+  height: 20px !important;
+  display: inline-block !important;
+  vertical-align: middle;
+  position: relative;
+  top: 2px !important; /* Move it up or down slightly */
+  left: 5px !important; /* Move it right if it's too far left */
+}
+
+.favorite-star svg {
+  max-width: 100% !important;
+  max-height: 100% !important;
+}
