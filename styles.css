@@ -1097,6 +1097,14 @@ h1 {
 }
 
 
-#settings-btn {
+/* #settings-btn {
   background-color: red !important;
+} */
+
+#settings-btn svg {
+  width: 23px !important;
+  height: 23px !important;
+  display: block !important;
+  stroke: #ffbd2e9c !important;
+  fill:#ffbd2e9c !important;
 }
