@@ -1115,11 +1115,10 @@ h1 {
 }
 
 .favorite-btn {
-  width: 20px !important;  /* Adjust size as needed */
+  position: absolute !important;
+  right: 10px !important; /* Move it closer to the right */
+  top: 50%; /* Center vertically */
+  transform: translateY(-50%);
+  width: 20px !important;
   height: 20px !important;
-  display: inline-block !important;
-  vertical-align: middle;
-  position: relative;
-  top: 0px !important; /* Move it up or down slightly */
-  right: 0px !important; /* Move it right if it's too far left */
 }
