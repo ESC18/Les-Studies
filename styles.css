@@ -1,325 +1,1097 @@
 /* Basic Dark Mode Styling */
 body {
-    font-family: 'Helvetica Neue', Arial, sans-serif;  /* Set the primary font */
-    background-color: black;                           /* Dark background color */
-    color: #f1f1f1;                                    /* Light text color for dark theme */
-    margin: 0;                                         /* Remove default margin */
-    padding: 0;                                        /* Remove default padding */
-    padding-bottom: 60px;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  /* Set the primary font */
+  background-color: black;
+  /* Dark background color */
+  color: #f1f1f1;
+  /* Light text color for dark theme */
+  margin: 0;
+  /* Remove default margin */
+  padding: 0;
+  /* Remove default padding */
+  padding-bottom: 60px;
 }
 
 header {
-    padding: 10px 20px;                                /* Padding inside the header */
-    background-color: black;                           /* Header background color */
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);         /* Subtle shadow for depth */
+  padding: 10px 20px;
+  /* Padding inside the header */
+  background-color: black;
+  /* Header background color */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  /* Subtle shadow for depth */
 }
 
 /* Subheader Styles */
 .subheader {
-    padding: 10px 20px;                                /* Padding around subheaders */
-    margin-top: 20px;                                  /* Space above subheaders */
-    transition: opacity 0.3s ease;                     /* Smooth opacity transition */
+  padding: 10px 20px;
+  /* Padding around subheaders */
+  margin-top: 20px;
+  /* Space above subheaders */
+  transition: opacity 0.3s ease;
+  /* Smooth opacity transition */
 }
 
 .subheader h2 {
-    color: #f1f1f1;                                   /* Light text color */
-    font-size: 24px;                                   /* Large enough for visibility */
-    font-weight: bold;                                 /* Bold text */
-    margin: 0;                                        /* Remove default margin */
+  color: #f1f1f1;
+  /* Light text color */
+  font-size: 24px;
+  /* Large enough for visibility */
+  font-weight: bold;
+  /* Bold text */
+  margin: 0;
+  /* Remove default margin */
 }
 
 h1 {
-    font-size: 36px;                                  /* Main heading size */
-    font-weight: 600;                                 /* Semi-bold */
-    margin: 0;                                        /* Remove margin */
-    color: #ffbd2e9c;                                 /* Golden color */
+  font-size: 36px;
+  /* Main heading size */
+  font-weight: 600;
+  /* Semi-bold */
+  margin: 0;
+  /* Remove margin */
+  color: #ffbd2e9c;
+  /* Golden color */
 }
 
 #search-bar {
-    width: calc(100% - 8px);                           /* Full width minus padding */
-    padding: 4px;                                     /* Inner padding */
-    margin-top: 5px;                                  /* Top margin */
-    font-size: 16px;                                  /* Readable font size */
-    border: 0px solid #444;                           /* Border style */
-    border-radius: 8px;                               /* Rounded corners */
-    background-color: #333;                           /* Dark background for input */
-    color: #fff;                                      /* White text */
-    transition: box-shadow 0.3s ease, background-color 0.3s ease; /* Smooth transitions */
+  width: calc(100% - 8px);
+  /* Full width minus padding */
+  padding: 4px;
+  /* Inner padding */
+  margin-top: 5px;
+  /* Top margin */
+  font-size: 16px;
+  /* Readable font size */
+  border: 0px solid #444;
+  /* Border style */
+  border-radius: 8px;
+  /* Rounded corners */
+  background-color: #333;
+  /* Dark background for input */
+  color: #fff;
+  /* White text */
+  transition: box-shadow 0.3s ease, background-color 0.3s ease;
+  /* Smooth transitions */
 }
 
 #search-bar:focus {
-    border: none;                                    /* Remove border on focus */
-    outline: none;                                   /* Remove outline */
-    box-shadow: 0 0 8px rgba(255, 189, 46, 0.5);       /* Glow effect on focus */
+  border: none;
+  /* Remove border on focus */
+  outline: none;
+  /* Remove outline */
+  box-shadow: 0 0 8px rgba(255, 189, 46, 0.5);
+  /* Glow effect on focus */
 }
 
 /* Study Container */
 #study-container {
-    padding: 0px 20px;                                /* Horizontal padding */
-    max-width: calc(100vw - 40px);                                /* Maximum width */
-    margin: 0 auto;                                   /* Center the container */
-    background-color: black;                          /* Black background */
-    border-radius: 12px;                              /* Rounded corners */
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.4);        /* Subtle shadow */
-    overflow-y: auto;                                 /* Vertical scrolling if needed */
-    transition: all 0.3s;                             /* Smooth overall transition */
+  padding: 0px 20px;
+  /* Horizontal padding */
+  max-width: calc(100vw - 40px);
+  /* Maximum width */
+  margin: 0 auto;
+  /* Center the container */
+  background-color: black;
+  /* Black background */
+  border-radius: 12px;
+  /* Rounded corners */
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.4);
+  /* Subtle shadow */
+  overflow-y: auto;
+  /* Vertical scrolling if needed */
+  transition: all 0.3s;
+  /* Smooth overall transition */
 }
 
 /* Study Note Styles */
 .study-note {
-    padding: 1px 0px 1px 10px;                         /* Padding inside each note */
-    background-color: #2a2a2a;                         /* Darker background for notes */
-    border-radius: 10px;                               /* Rounded corners */
-    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.4);         /* Subtle shadow */
-    margin-bottom: 3px;                                /* Space between notes */
-    cursor: pointer;                                  /* Pointer cursor on hover */
-    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Transition for hover effects */
+  padding: 1px 0px 1px 10px;
+  /* Padding inside each note */
+  background-color: #2a2a2a;
+  /* Darker background for notes */
+  border-radius: 10px;
+  /* Rounded corners */
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.4);
+  /* Subtle shadow */
+  margin-bottom: 3px;
+  /* Space between notes */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  /* Transition for hover effects */
 }
 
 .study-note:hover {
-    background-color: #3a3a3a;                         /* Lighter on hover */
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);           /* Stronger shadow on hover */
+  background-color: #3a3a3a;
+  /* Lighter on hover */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  /* Stronger shadow on hover */
 }
 
 .study-title {
-    font-size: 20px;                                  /* Title size */
-    color: #f1f1f1;                                   /* Title text color */
+  font-size: 20px;
+  /* Title size */
+  color: #ffbd2e9c;
+  /* Title text color */
 }
 
 .study-description {
-    font-size: 14px;                                  /* Description font size */
-    color: #bbb;                                     /* Slightly lighter color */
-    transition: max-height 0.3s ease;                 /* Transition for height change */
+  font-size: 14px;
+  /* Description font size */
+  color: #bbb;
+  /* Slightly lighter color */
+  transition: max-height 0.3s ease;
+  /* Transition for height change */
 }
 
 /* Expandable Full Study Section */
 .full-study {
-    max-height: 0;                                   /* Collapsed state */
-    overflow: hidden;                                /* Hide content when collapsed */
-    padding-top: 0;                                  /* Remove top padding initially */
-    transition: max-height 0.4s ease;                /* Smooth height transition */
+  max-height: 0;
+  /* Collapsed state */
+  overflow: hidden;
+  /* Hide content when collapsed */
+  padding-top: 0;
+  /* Remove top padding initially */
+  transition: max-height 0.4s ease;
+  /* Smooth height transition */
 }
 
 .study-note.extended .full-study {
-    max-height: 50000px;                               /* Expanded state (adjust as needed) */
-    padding-top: 15px;                               /* Add padding when expanded */
+  max-height: 50000px;
+  /* Expanded state (adjust as needed) */
+  padding-top: 15px;
+  /* Add padding when expanded */
 }
 
 /* Close Button for Full Study */
 .full-study .close-btn {
-    position: absolute;                              /* Absolute positioning */
-    top: 10px;                                       /* From the top */
-    right: 10px;                                     /* From the right */
-    background-color: #444;                          /* Dark background */
-    color: #f1f1f1;                                  /* Light text */
-    border: none;                                    /* No border */
-    font-size: 20px;                                 /* Large text */
-    cursor: pointer;                                 /* Pointer cursor */
+  position: absolute;
+  /* Absolute positioning */
+  top: 10px;
+  /* From the top */
+  right: 10px;
+  /* From the right */
+  background-color: #444;
+  /* Dark background */
+  color: #f1f1f1;
+  /* Light text */
+  border: none;
+  /* No border */
+  font-size: 20px;
+  /* Large text */
+  cursor: pointer;
+  /* Pointer cursor */
 }
 
 .quote {
-    color: #995;            /* Adjust this to your desired darker color */
-    padding-left: 20px;      /* Increase side padding as needed */
-    padding-right: 30px;
-    margin: 10px 0;         /* Optional: add vertical spacing */
-  }
+  color: #995;
+  /* Adjust this to your desired darker color */
+  padding-left: 20px;
+  /* Increase side padding as needed */
+  padding-right: 30px;
+  margin: 10px 0;
+  /* Optional: add vertical spacing */
+}
 
 /* Bible Quote Styles */
 .bible-quote {
-    font-size: 14px;                                 /* Quote font size */
-    line-height: 1.6;                                /* Readable line height */
-    display: none;                                   /* Hidden by default */
+  font-size: 14px;
+  /* Quote font size */
+  line-height: 1.6;
+  /* Readable line height */
+  display: none;
+  /* Hidden by default */
 }
 
 .bible-quote.active {
-    display: block;                                  /* Display active quote */
+  display: block;
+  /* Display active quote */
 }
 
 /* Set the color for verse numbers */
 .verse-number {
-    color: #92b0c9;  /* Change this to whatever color you like */
-  }
-  
-  /* Set the color for the reference text */
-  .quote-reference {
-    color: #ce4f4f;  /* For example, a slightly darker gray; adjust as needed */
-  }
-  
+  color: #92b0c9;
+  /* Change this to whatever color you like */
+}
+
+/* Set the color for the reference text */
+.quote-reference {
+  color: #ce4f4f;
+  /* For example, a slightly darker gray; adjust as needed */
+}
+
 
 /* Translation Tab (if used) */
 #translation-tab {
-    position: fixed;                                 /* Fixed positioning */
-    bottom: 20px;                                    /* From the bottom */
-    right: 20px;                                     /* From the right */
-    width: 40px;                                     /* Width */
-    height: 200px;                                   /* Height */
-    background-color: #333;                          /* Dark background */
-    border-radius: 10px;                             /* Rounded corners */
-    cursor: pointer;                                 /* Pointer cursor */
+  position: fixed;
+  /* Fixed positioning */
+  bottom: 20px;
+  /* From the bottom */
+  right: 20px;
+  /* From the right */
+  width: 40px;
+  /* Width */
+  height: 200px;
+  /* Height */
+  background-color: #333;
+  /* Dark background */
+  border-radius: 10px;
+  /* Rounded corners */
+  cursor: pointer;
+  /* Pointer cursor */
 }
 
 .tab-indicator {
-    position: absolute;                              /* Absolute positioning */
-    top: 50%;                                        /* Center vertically */
-    left: 50%;                                       /* Center horizontally */
-    width: 10px;                                     /* Width */
-    height: 50px;                                    /* Height */
-    background-color: #fff;                          /* White color */
-    border-radius: 5px;                              /* Rounded corners */
-    transform: translate(-50%, -50%);                /* Centering transform */
+  position: absolute;
+  /* Absolute positioning */
+  top: 50%;
+  /* Center vertically */
+  left: 50%;
+  /* Center horizontally */
+  width: 10px;
+  /* Width */
+  height: 50px;
+  /* Height */
+  background-color: #fff;
+  /* White color */
+  border-radius: 5px;
+  /* Rounded corners */
+  transform: translate(-50%, -50%);
+  /* Centering transform */
 }
 
 .first-study {
-    border-radius: 10px 10px 0px 0px;                 /* Top corners rounded */
+  border-radius: 10px 10px 0px 0px;
+  /* Top corners rounded */
 }
 
 .last-study {
-    border-radius: 0px 0px 10px 10px;                 /* Bottom corners rounded */
+  border-radius: 0px 0px 10px 10px;
+  /* Bottom corners rounded */
 }
 
 /* Verse Cubes CSS: 3x3 grid */
 #verse-cubes {
-    display: grid;                                   /* Use grid layout */
-    grid-template-columns: repeat(3, 1fr);           /* Three equal columns */
-    gap: 10px;                                       /* Gap between items */
-    margin-top: 0px;                                 /* No top margin */
-    padding-left: 20px;                              /* Left padding */
-    padding-right: 20px;                             /* Right padding */
-    transition: opacity 0.3s ease;                   /* Fade transition */
+  display: grid;
+  /* Use grid layout */
+  grid-template-columns: repeat(3, 1fr);
+  /* Three equal columns */
+  gap: 10px;
+  /* Gap between items */
+  margin-top: 0px;
+  /* No top margin */
+  padding-left: 20px;
+  /* Left padding */
+  padding-right: 20px;
+  /* Right padding */
+  transition: opacity 0.3s ease;
+  /* Fade transition */
 }
 
 .verse-cube {
-    width: 100%;                                     /* Full width */
-    aspect-ratio: 1/1;                               /* Square shape */
-    display: flex;                                   /* Flex layout */
-    justify-content: center;                         /* Center horizontally */
-    align-items: center;                             /* Center vertically */
-    background-color: #333;                          /* Dark background */
-    color: white;                                    /* White text */
-    cursor: pointer;                                 /* Pointer cursor */
-    font-size: 1em;                                  /* Font size */
-    text-align: center;                              /* Centered text */
-    border-radius: 10px;                             /* Rounded corners */
-    transition: background-color 0.3s ease;          /* Smooth background transition */
+  width: 100%;
+  /* Full width */
+  aspect-ratio: 1/1;
+  /* Square shape */
+  display: flex;
+  /* Flex layout */
+  justify-content: center;
+  /* Center horizontally */
+  align-items: center;
+  /* Center vertically */
+  background-color: #333;
+  /* Dark background */
+  color: white;
+  /* White text */
+  cursor: pointer;
+  /* Pointer cursor */
+  font-size: 1em;
+  /* Font size */
+  text-align: center;
+  /* Centered text */
+  border-radius: 10px;
+  /* Rounded corners */
+  transition: background-color 0.3s ease;
+  /* Smooth background transition */
 }
 
 .verse-cube:hover {
-    background-color: #218838;                       /* Change color on hover */
+  background-color: #218838;
+  /* Change color on hover */
 }
 
 /* Modal Styles with z-index and opacity transitions */
 .modal {
-    position: fixed;                                 /* Fixed position covers viewport */
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,0.7);               /* Semi-transparent background */
-    opacity: 0;                                      /* Fully transparent when inactive */
-    z-index: -1;                                     /* Placed behind functional elements */
-    pointer-events: none;                            /* No pointer events when hidden */
-    transition: opacity 0.3s ease;                   /* Smooth fade transition */
+  position: fixed;
+  /* Fixed position covers viewport */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  /* Semi-transparent background */
+  opacity: 0;
+  /* Fully transparent when inactive */
+  z-index: -1;
+  /* Placed behind functional elements */
+  pointer-events: none;
+  /* No pointer events when hidden */
+  transition: opacity 0.3s ease;
+  /* Smooth fade transition */
 }
 
 .modal.show {
-    opacity: 1;                                      /* Fully visible when active */
-    z-index: 1000;                                   /* Above other content */
-    pointer-events: auto;                            /* Enable pointer events */
+  opacity: 1;
+  /* Fully visible when active */
+  z-index: 1000;
+  /* Above other content */
+  pointer-events: auto;
+  /* Enable pointer events */
 }
 
 .modal-content {
-    background-color: #2a2a2a;                       /* Modal content background */
-    padding: 20px;                                   /* Inner padding */
-    width: calc(80% - 40px);                          /* Responsive width */
-    max-width: calc(90vw - 40px);                     /* Maximum width */
-    border-radius: 10px;                             /* Rounded corners */
-    position: absolute;                              /* Absolute positioning */
-    top: 50%;                                       /* Center vertically */
-    left: 50%;                                      /* Center horizontally */
-    transform: translate(-50%,-50%);                /* Adjust centering */
-    transition: transform 0.3s ease, opacity 0.3s ease; /* Smooth transform and fade */
+  background-color: #2a2a2a;
+  /* Modal content background */
+  padding: 20px;
+  /* Inner padding */
+  width: calc(80% - 40px);
+  /* Responsive width */
+  max-width: calc(90vw - 40px);
+  /* Maximum width */
+  border-radius: 10px;
+  /* Rounded corners */
+  position: absolute;
+  /* Absolute positioning */
+  top: 50%;
+  /* Center vertically */
+  left: 50%;
+  /* Center horizontally */
+  transform: translate(-50%, -50%);
+  /* Adjust centering */
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  /* Smooth transform and fade */
 }
 
 /* Modal Close Button */
 .modal-close {
-    color: #f1f1f1;                                  /* Light text */
-    position: absolute;                              /* Absolute positioning */
-    top: 10px;                                       /* From the top */
-    right: 10px;                                     /* From the right */
-    font-size: 18px;                                 /* Font size */
-    cursor: pointer;                                 /* Pointer cursor */
+  color: #f1f1f1;
+  /* Light text */
+  position: absolute;
+  /* Absolute positioning */
+  top: 10px;
+  /* From the top */
+  right: 10px;
+  /* From the right */
+  font-size: 18px;
+  /* Font size */
+  cursor: pointer;
+  /* Pointer cursor */
 }
 
 /* Footer Styling */
 #footer {
-    position: fixed;                                 /* Fixed at the bottom */
-    bottom: 0;
-    left: 0;
-    width: 100%;                                     /* Full width */
-    height: 50px;                                    /* Fixed height */
-    background: rgba(50, 50, 50, 0.7);                /* Semi-transparent dark gray */
-    padding: 0px 20px;                                 /* Horizontal padding */
-    display: flex;                                   /* Flex layout */
-    justify-content: center;                         /* Center horizontally */
-    align-items: center;                             /* Center vertically */
-    z-index: 1000;                                   /* High z-index */
-    backdrop-filter: blur(10px);                     /* Blur background */
-    -webkit-backdrop-filter: blur(10px);             /* Safari support */
+  position: fixed;
+  /* Fixed at the bottom */
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  /* Full width */
+  height: 50px;
+  /* Fixed height */
+  background: rgba(50, 50, 50, 0.7);
+  /* Semi-transparent dark gray */
+  padding: 0px 15px;
+  /* Horizontal padding */
+  display: flex;
+  /* Flex layout */
+  justify-content: center;
+  /* Center horizontally */
+  align-items: center;
+  /* Center vertically */
+  z-index: 1000;
+  /* High z-index */
+  backdrop-filter: blur(10px);
+  /* Blur background */
+  -webkit-backdrop-filter: blur(10px);
+  /* Safari support */
 }
 
 /* Current Translation Text in Footer */
 #current-translation {
-    color: #ffbd2e9c;                                /* Golden color */
-    font-size: 16px;                                 /* Font size */
-    cursor: pointer;                                 /* Pointer cursor */
-    left: 50%;
-    transform: translate(-50%);
+  color: #ffbd2e9c;
+  /* Golden color */
+  font-size: 16px;
+  /* Font size */
+  cursor: pointer;
+  /* Pointer cursor */
+  left: 50%;
+  transform: translate(-50%);
 }
 
 /* Horizontal Container for Translation Options */
 #translation-scrollbar {
-    position: absolute;                              /* Positioned within the footer */
-    bottom: 0;
-    left: 50vw;
-    transform: translate(-50%);
-    width: auto;                                    /* Adjust width automatically */
-    height: 50px;                                   /* Fixed height */
-    display: none;                                  /* Hidden by default */
-    flex-direction: row;                            /* Row layout */
-    justify-content: center;                        /* Center options */
-    align-items: center;                            /* Center options vertically */
-    overflow-x: hidden;                             /* Hide horizontal overflow */
-    transition: opacity 0.3s ease;                  /* Smooth fade transition */
-    
+  position: absolute;
+  /* Positioned within the footer */
+  bottom: 0;
+  left: 50vw;
+  transform: translate(-50%);
+  width: auto;
+  /* Adjust width automatically */
+  height: 50px;
+  /* Fixed height */
+  display: none;
+  /* Hidden by default */
+  flex-direction: row;
+  /* Row layout */
+  justify-content: center;
+  /* Center options */
+  align-items: center;
+  /* Center options vertically */
+  overflow-x: hidden;
+  /* Hide horizontal overflow */
+  transition: opacity 0.3s ease;
+  /* Smooth fade transition */
+
 }
 
 /* Each Translation Option */
 .translation-option {
-    padding: 0px 10px;                              /* Horizontal padding */
-    margin: 0px;                                    /* No margin */
-    color: #ffbd2e9c;                               /* Golden text */
-    font-size: 16px;                                /* Font size */
-    cursor: pointer;                                /* Pointer cursor */
-    transition: background-color 0.3s ease;         /* Smooth background transition */
+  padding: 0px 10px;
+  /* Horizontal padding */
+  margin: 0px;
+  /* No margin */
+  color: #ffbd2e9c;
+  /* Golden text */
+  font-size: 16px;
+  /* Font size */
+  cursor: pointer;
+  /* Pointer cursor */
+  transition: background-color 0.3s ease;
+  /* Smooth background transition */
 }
 
 .translation-option:hover {
-    background-color: rgba(255, 189, 46, 0.2);       /* Change background on hover */
-    border-radius: 4px;                             /* Slight rounding on hover */
+  background-color: rgba(255, 189, 46, 0.2);
+  /* Change background on hover */
+  border-radius: 4px;
+  /* Slight rounding on hover */
 }
 
 /* Border Fix Transition for Search Results */
 .border-fix {
-    border-radius: 10px;                             /* Rounded border */
-    margin-bottom: 5px;                              /* Adjust margin */
-    transition: border 0.2s ease, margin 0.2s ease;   /* Smooth transition */
+  border-radius: 10px;
+  /* Rounded border */
+  margin-bottom: 5px;
+  /* Adjust margin */
+  transition: border 0.2s ease, margin 0.2s ease;
+  /* Smooth transition */
 }
 
 
 /* Container styling for studies */
 #recommended-container,
 #study-container {
-  max-width: calc(100vw - 40px);  /* Limits the width */
-  margin: 0 auto;    /* Centers the container */
+  max-width: calc(100vw - 40px);
+  /* Limits the width */
+  margin: 0 auto;
+  /* Centers the container */
 }
+
+/* Daily Inspiration Section Styles */
+#daily-section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0 20px;
+  margin-bottom: 20px;
+}
+
+.daily-quote {
+  background-color: #2a2a2a;
+  color: #f1f1f1;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+}
+
+.daily-quote h3 {
+  margin: 0 0 10px 0;
+  font-size: 18px;
+  color: #ffbd2e9c;
+  /* Golden color for headings */
+}
+
+.daily-text {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+/* Morning Video Section Styles */
+#morning-video-section {
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.video-section {
+  width: 100%;
+  max-width: 800px;
+}
+
+.video-rectangle {
+  width: calc(100% - 40px);
+  aspect-ratio: 16 / 9;
+  /* A 16:9 rectangle */
+  background-color: #2a2a2a;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.video-content {
+  padding: 20px;
+  text-align: center;
+  z-index: 2;
+  color: #f1f1f1;
+}
+
+.video-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.video-description {
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.view-more-btn {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: transparent;
+  border: 2px solid #ffbd2e9c;
+  border-radius: 5px;
+  color: #ffbd2e9c;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.view-more-btn:hover {
+  background-color: rgba(255, 189, 46, 0.2);
+  box-shadow: 0 0 10px rgba(255, 189, 46, 0.8);
+  transform: scale(1.05);
+}
+
+#morning-video-rectangle.glow {
+  box-shadow: 0 0 15px rgba(255, 189, 46, 0.8);
+  transition: box-shadow 0.5s ease;
+}
+
+#video-modal {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease;
+  position: fixed;
+  width: (100% - 20px);
+  /* other styles remain the same */
+}
+
+#video-modal.show {
+  opacity: 1;
+  visibility: visible;
+  z-index: 2000;
+  transition: opacity 0.3s ease;
+}
+
+
+#video-modal .modal-content {
+  background: #2a2a2a;
+  padding: 20px;
+  border-radius: 10px;
+  width: calc(100% - 40px);
+  max-height: 90%;
+  overflow-y: auto;
+  position: relative;
+}
+
+#video-modal .modal-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: #f1f1f1;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.video-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.video-list-item {
+  padding: 0px;
+  background-color: #1e1e1e;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #f1f1f1;
+  transition: background-color 0.3s;
+}
+
+.video-list-item:hover {
+  background-color: #333;
+}
+
+.video-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  /* Dark overlay with 40% opacity */
+  backdrop-filter: blur(3px);
+  /* Apply a 2px blur to what's behind the overlay */
+  -webkit-backdrop-filter: blur(2px);
+  /* Safari support */
+  pointer-events: none;
+  /* Allow clicks to pass through */
+  z-index: 1;
+  /* Ensure it sits behind text (which should be on a higher z-index) */
+}
+
+.video-list-item {
+  position: relative;
+  width: 100%;
+  height: 150px;
+  /* Adjust as needed */
+  border-radius: 5px;
+  overflow: hidden;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.video-text-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.6);
+  /* Semi-transparent grey overlay */
+  color: #f1f1f1;
+  padding: 5px 10px;
+  font-size: 14px;
+  text-align: left;
+}
+
+#video-search-results {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.video-search-result {
+  position: relative;
+  width: 100%;
+  height: 150px;
+  /* Adjust as needed */
+  border-radius: 5px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.video-text-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.6);
+  /* Semi-transparent grey overlay */
+  color: #f1f1f1;
+  padding: 5px 10px;
+  font-size: 14px;
+  text-align: left;
+}
+
+/* Limit the description to a maximum of two lines */
+.video-text-overlay span {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* --- Morning Video Glow Effect --- */
+#morning-video-rectangle.glow {
+  box-shadow: 0 0 15px rgba(255, 189, 46, 0.8);
+  transition: box-shadow 0.3s ease;
+}
+
+/* --- Video Modal Fade In/Out --- */
+#video-modal {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  /* (Keep other modal styles as before) */
+}
+
+#video-modal.show {
+  opacity: 1;
+  visibility: visible;
+  z-index: 2000;
+}
+
+
+/* Offline/Online Indicator (left side) */
+
+#offline-indicator {
+  width: 25px;
+  /* color: #995; Default for connected */
+  position: absolute;
+  left: 20px;
+  top: 15px;
+}
+
+/* Settings Modal - Centered in the Viewport */
+#settings-modal {
+  position: fixed;            /* Fixed positioning covers the entire viewport */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);  /* Semi-transparent overlay */
+  display: flex;              /* Use flexbox for centering */
+  justify-content: center;    /* Center horizontally */
+  align-items: center;        /* Center vertically */
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s ease, visibility 0.5s ease;
+  z-index: 3000;
+}
+
+#settings-modal.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Settings Modal Content */
+#settings-modal .modal-content {
+  background: #2a2a2a;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow-y: auto;
+  color: #f1f1f1;
+  /* Center content if needed */
+  margin: auto;
+}
+
+/* Settings Button remains as is in the footer */
+#settings-btn {
+  width: 30px;
+  color: #ffbd2e9c;
+  background-color: transparent;
+  border: none;
+  border-radius: 2px;
+  font-size: 20px;
+  transition: transform 0.2s ease;
+  position: absolute;
+  right: 43px;
+  top: 12.5px;
+}
+#settings-btn:hover {
+  transform: scale(1.1);
+}
+
+/* Custom Radio Button Styling */
+input[type="radio"] {
+  -webkit-appearance: none; /* Remove default styling for WebKit */
+  -moz-appearance: none;    /* Remove default styling for Firefox */
+  appearance: none;         /* Remove default styling */
+  background-color: #333;   /* Dark background matching your inputs */
+  border: 2px solid #ffbd2e9c;  /* Golden border */
+  width: 20px;              /* Size of the radio button */
+  height: 20px;
+  border-radius: 50%;       /* Make it circular */
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Checked state */
+input[type="radio"]:checked {
+  background-color: #ffbd2e9c; /* Golden background when checked */
+  border-color: #ffbd2e9c;     /* Golden border */
+}
+
+/* Focus state for accessibility */
+input[type="radio"]:focus {
+  box-shadow: 0 0 3px #ffbd2e9c;
+}
+
+
+
+.study-note {
+  position: relative;
+}
+
+.favorite-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 25px !important;
+  color: #ffbd2e9c;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  z-index: 10;
+    /* For debugging, you can add a border */
+  /* border: 1px solid red; */
+}
+
+/* Prayer Section Header */
+/* This uses a style similar to your subheaders but with a golden heading */
+#prayer-section {
+  padding: 10px 20px;
+}
+#prayer-section h2 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Prayer Content Container */
+/* Styled similarly to your .daily-quote blocks */
+#prayer-content {
+  background-color: #2a2a2a;       /* Same dark background as daily quotes */
+  color: #f1f1f1;                 /* Light text color */
+  padding: 0px 10px 0px 10px;
+  margin: 0px 20px 12.5px 20px;          /* Vertical margin with horizontal padding */
+  border-radius: 10px;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.4); /* Subtle shadow */
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.4;
+  max-height: 100px;             /* Collapsed height */
+  overflow: hidden;              /* Hide overflow when collapsed */
+  transition: max-height 0.4s ease;
+  position: relative;
+}
+
+#prayer-content.expanded {
+  max-height: 10000px;             /* Expanded height (adjust as needed) */
+  overflow: auto;
+  transition: max-height 0.4s ease;
+
+}
+
+#prayer-content:not(.expanded)::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px; /* Adjust the height of the fade as needed */
+  background: linear-gradient(to bottom, rgba(42,42,42,0) 0%, #2a2a2a 100%);
+  pointer-events: none; /* So it doesn't interfere with clicks */
+}
+
+#toggle-prayer {
+  padding: 10px 20px;
+  background-color: transparent;
+  border: 2px solid #ffbd2e9c;
+  border-radius: 5px;
+  color: #ffbd2e9c;
+  cursor: pointer;
+  font-size: 16px;
+  left: 50%;
+  position: relative;
+  transform: translate(-50%);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.view-more-btn:hover {
+  background-color: rgba(255, 189, 46, 0.2);
+  box-shadow: 0 0 10px rgba(255, 189, 46, 0.8);
+  transform: scale(1.05);
+}
+
+:root {
+  --base-font-size: 16px;
+}
+
+/* Example usage: */
+body {
+  font-size: var(--base-font-size);
+  /* Other styles remain the same */
+}
+
+/* Main headings */
+h1 {
+  font-size: calc(var(--base-font-size) * 2.25); /* e.g., 16px * 2.25 = 36px */
+}
+
+/* Subheaders (including prayer subheader) */
+.subheader h2,
+#prayer-section h2 {
+  font-size: calc(var(--base-font-size) * 1); /* e.g., 16px * 1.5 = 24px */
+}
+
+/* Study Titles */
+.study-title {
+  font-size: calc(var(--base-font-size) * 1.); /* e.g., 16px * 1.25 = 20px */
+}
+
+/* Study Descriptions */
+.study-description {
+  font-size: calc(var(--base-font-size) * 0.875); /* e.g., 16px * 0.875 = 14px */
+}
+
+/* Daily Inspiration Text */
+.daily-text {
+  font-size: var(--base-font-size); /* Uses the base value directly (16px by default) */
+}
+
+/* Bible Quote inside study notes */
+.bible-quote {
+  font-size: calc(var(--base-font-size) * 0.875); /* e.g., 14px if base is 16px */
+}
+
+#prayer-text {
+  font-size: calc(var(--base-font-size) * 1);
+}
+
+#daily-text {
+  font-size: calc(var(--base-font-size) * 1);
+}
+
+
+
+/* Updated Settings Modal Styles */
+#settings-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8); /* Darker semi-transparent overlay */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 3000;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.4s ease, visibility 0.4s ease;
+}
+
+#settings-modal.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+#settings-modal .modal-content {
+  background: #1f1f1f; /* Slightly darker background for content */
+  border-radius: 12px;
+  padding: 30px;
+  max-width: 500px;
+  width: calc(80% - 40px);
+  max-height: 80%;
+  overflow-y: auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+  color: #f1f1f1;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  text-align: left;
+}
+
+#settings-modal .modal-close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  font-size: 24px;
+  cursor: pointer;
+  color: #ffbd2e9c; /* Golden close icon */
+  transition: color 0.3s ease;
+}
+#settings-modal .modal-close:hover {
+  color: #ffc107; /* Lighter golden on hover */
+}
+
+#settings-modal h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #ffbd2e9c;
+}
+
+#settings-modal .settings-section {
+  margin-bottom: 20px;
+}
+
+#settings-modal .settings-section h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+#settings-modal label {
+  font-size: 16px;
+  display: block;
+  margin-bottom: 8px;
+  cursor: pointer;
+  color: #ffbd2e9c;
+}
+
+#settings-modal input[type="radio"],
+#settings-modal input[type="checkbox"] {
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+/* If you're using a range slider for font size */
+#font-size-slider {
+  width: 100%;
+  margin-top: 10px;
+}
+#font-size-value {
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+/* Reset Button Styling */
+#reset-settings {
+  padding: 8px 16px;
+  background-color: transparent;
+  border: 1px solid #C84C09;
+  color: #C84C09;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  font-size: 16px; /* Fixed size for consistency */
+}
+#reset-settings:hover {
+  background-color: rgba(200, 68, 9, 0.2);
+  transform: scale(1.05);
+}
+
+/* Offline/Online Status Text - Fixed Font Size */
+#offline-indicator-text {
+  font-size: 16px !important; /* Fixed font size regardless of base font size changes */
+  font-weight: bold;
+  color: inherit; /* Inherit color or set a specific color if desired */
+}
+
 

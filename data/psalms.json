@@ -1,0 +1,23 @@
+{
+    "quotes": [
+      {
+        "niv": "NIV version of Quote for day 1",
+        "esv": "ESV version of Quote for day 1",
+        "nkjv": "NKJV version of Quote for day 1",
+        "kjv": "KJV version of Quote for day 1",
+        "csb": "CSB version of Quote for day 1",
+        "nasb": "NASB version of Quote for day 1",
+        "ceb": "CEB version of Quote for day 1"
+      },
+      {
+        "niv": "NIV version of Quote for day 2",
+        "esv": "ESV version of Quote for day 2",
+        "nkjv": "NKJV version of Quote for day 2",
+        "kjv": "KJV version of Quote for day 2",
+        "csb": "CSB version of Quote for day 2",
+        "nasb": "NASB version of Quote for day 2",
+        "ceb": "CEB version of Quote for day 2"
+      }
+    ]
+  }
+  

@@ -1,0 +1,810 @@
+{
+  "quotes": [
+    {
+      "niv": "Proverbs 1:7 – The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction.",
+      "esv": "Proverbs 1:7 – The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction.",
+      "nkjv": "Proverbs 1:7 – The fear of the LORD is the beginning of knowledge, but fools despise wisdom and instruction.",
+      "kjv": "Proverbs 1:7 – The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.",
+      "csb": "Proverbs 1:7 – The fear of the LORD is the beginning of knowledge, but fools despise wisdom and discipline.",
+      "nasb": "Proverbs 1:7 – The fear of the LORD is the beginning of knowledge; fools despise wisdom and discipline.",
+      "ceb": "Proverbs 1:7 – The fear of the LORD is the beginning of knowledge, but fools despise wisdom and discipline."
+    },
+    {
+      "niv": "Proverbs 1:33 – But whoever listens to me will live in safety and be at ease, without fear of harm.",
+      "esv": "Proverbs 1:33 – But whoever listens to me will dwell secure and will be at ease, without dread of disaster.",
+      "nkjv": "Proverbs 1:33 – But whoever listens to me will dwell safely, and will be secure, without fear of evil.",
+      "kjv": "Proverbs 1:33 – But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
+      "csb": "Proverbs 1:33 – But whoever listens to me will live securely and be undisturbed by the dread of danger.",
+      "nasb": "Proverbs 1:33 – But whoever listens to me will live securely and be at ease from the dread of evil.",
+      "ceb": "Proverbs 1:33 – But those who obey me will dwell securely, untroubled by the dread of disaster."
+    },
+    {
+      "niv": "Proverbs 2:6 – For the Lord gives wisdom; from his mouth come knowledge and understanding.",
+      "esv": "Proverbs 2:6 – For the Lord gives wisdom; from his mouth come knowledge and understanding.",
+      "nkjv": "Proverbs 2:6 – For the LORD gives wisdom; from His mouth come knowledge and understanding.",
+      "kjv": "Proverbs 2:6 – For the LORD giveth wisdom: out of his mouth cometh knowledge and understanding.",
+      "csb": "Proverbs 2:6 – For the LORD gives wisdom; from his mouth come knowledge and understanding.",
+      "nasb": "Proverbs 2:6 – For the LORD gives wisdom; from His mouth come knowledge and understanding.",
+      "ceb": "Proverbs 2:6 – The LORD gives wisdom; from his mouth comes knowledge and understanding."
+    },
+    {
+      "niv": "Proverbs 3:5-6 – Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+      "esv": "Proverbs 3:5-6 – Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.",
+      "nkjv": "Proverbs 3:5-6 – Trust in the LORD with all your heart, and lean not on your own understanding; In all your ways acknowledge Him, and He shall direct your paths.",
+      "kjv": "Proverbs 3:5-6 – Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.",
+      "csb": "Proverbs 3:5-6 – Trust in the LORD with all your heart, and do not rely on your own understanding; in all your ways know him, and he will make your paths straight.",
+      "nasb": "Proverbs 3:5-6 – Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge Him, and He will make your paths straight.",
+      "ceb": "Proverbs 3:5-6 – Trust in the LORD with all your heart; don’t rely on your own intelligence. Know him in all your paths, and he will keep your ways straight."
+    },
+    {
+      "niv": "Proverbs 3:13 – Blessed are those who find wisdom, those who gain understanding.",
+      "esv": "Proverbs 3:13 – Blessed is the one who finds wisdom, and the one who gets understanding.",
+      "nkjv": "Proverbs 3:13 – Happy is the man who finds wisdom, and the man who gains understanding.",
+      "kjv": "Proverbs 3:13 – Happy is the man that findeth wisdom, and the man that getteth understanding.",
+      "csb": "Proverbs 3:13 – Happy is a man who finds wisdom and who acquires understanding.",
+      "nasb": "Proverbs 3:13 – Blessed is a person who finds wisdom, and one who obtains understanding.",
+      "ceb": "Proverbs 3:13 – Those who find wisdom are fortunate; they gain understanding."
+    },
+    {
+      "niv": "Proverbs 3:7 – Do not be wise in your own eyes; fear the Lord and shun evil.",
+      "esv": "Proverbs 3:7 – Be not wise in your own eyes; fear the Lord, and turn away from evil.",
+      "nkjv": "Proverbs 3:7 – Do not be wise in your own eyes; Fear the LORD and depart from evil.",
+      "kjv": "Proverbs 3:7 – Be not wise in thine own eyes: fear the LORD, and depart from evil.",
+      "csb": "Proverbs 3:7 – Don’t be wise in your own eyes; fear the LORD and turn away from evil.",
+      "nasb": "Proverbs 3:7 – Do not be wise in your own eyes; Fear the LORD and turn away from evil.",
+      "ceb": "Proverbs 3:7 – Don’t consider yourself wise. Fear the LORD and turn away from evil."
+    },
+    {
+      "niv": "Proverbs 3:11-12 – My son, do not despise the Lord’s discipline, and do not resent his rebuke, because the Lord disciplines those he loves, as a father the son he delights in.",
+      "esv": "Proverbs 3:11-12 – My son, do not despise the Lord’s discipline or be weary of his reproof, for the Lord reproves him whom he loves, as a father the son in whom he delights.",
+      "nkjv": "Proverbs 3:11-12 – My son, do not despise the chastening of the LORD, nor detest His correction; For whom the LORD loves He corrects, just as a father the son in whom he delights.",
+      "kjv": "Proverbs 3:11-12 – My son, despise not the chastening of the LORD; neither be weary of his correction: For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth.",
+      "csb": "Proverbs 3:11-12 – Do not despise the LORD’s instruction, my son, and do not loathe his discipline; for the LORD disciplines the one he loves, just as a father disciplines the son in whom he delights.",
+      "nasb": "Proverbs 3:11-12 – My son, do not reject the discipline of the LORD or loathe His rebuke, for whom the LORD loves He disciplines, just as a father disciplines the son in whom he delights.",
+      "ceb": "Proverbs 3:11-12 – My son, don’t reject the LORD’s instruction, and don’t despise his correction. The LORD loves those he corrects, just like a father who treats his son with favor."
+    },
+    {
+      "niv": "Proverbs 3:21 – My son, do not let wisdom and understanding out of your sight; preserve sound judgment and discretion.",
+      "esv": "Proverbs 3:21 – My son, do not lose sight of these—keep sound wisdom and discretion.",
+      "nkjv": "Proverbs 3:21 – My son, let them not depart from your eyes—Keep sound wisdom and discretion.",
+      "kjv": "Proverbs 3:21 – My son, let not them depart from thine eyes: keep sound wisdom and discretion.",
+      "csb": "Proverbs 3:21 – Maintain sound wisdom and discretion. My son, don’t lose sight of them.",
+      "nasb": "Proverbs 3:21 – My son, see that they do not escape from your sight; comply with sound wisdom and discretion.",
+      "ceb": "Proverbs 3:21 – My son, don’t let these slip from your sight: hold on to sound judgment and discretion."
+    },
+    {
+      "niv": "Proverbs 4:7 – The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.",
+      "esv": "Proverbs 4:7 – The beginning of wisdom is this: Get wisdom, and whatever you get, get insight.",
+      "nkjv": "Proverbs 4:7 – Wisdom is the principal thing; Therefore get wisdom. And in all your getting, get understanding.",
+      "kjv": "Proverbs 4:7 – Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.",
+      "csb": "Proverbs 4:7 – Wisdom is supreme—so get wisdom. And whatever else you get, get understanding.",
+      "nasb": "Proverbs 4:7 – The beginning of wisdom is: Acquire wisdom; And with all your possessions, acquire understanding.",
+      "ceb": "Proverbs 4:7 – Wisdom is of utmost importance, so get wisdom. Even if it costs all you have, gain understanding."
+    },
+    {
+      "niv": "Proverbs 6:6 – Go to the ant, you sluggard; consider its ways and be wise!",
+      "esv": "Proverbs 6:6 – Go to the ant, O sluggard; consider her ways, and be wise.",
+      "nkjv": "Proverbs 6:6 – Go to the ant, you sluggard! Consider her ways and be wise.",
+      "kjv": "Proverbs 6:6 – Go to the ant, thou sluggard; consider her ways, and be wise.",
+      "csb": "Proverbs 6:6 – Go to the ant, you slacker! Observe its ways and become wise.",
+      "nasb": "Proverbs 6:6 – Go to the ant, you lazy one, observe its ways and be wise.",
+      "ceb": "Proverbs 6:6 – Go to the ant, lazy person; observe its ways and grow wise."
+    },
+    {
+      "niv": "Proverbs 10:9 – Whoever walks in integrity walks securely, but whoever takes crooked paths will be found out.",
+      "esv": "Proverbs 10:9 – Whoever walks in integrity walks securely, but he who makes his ways crooked will be found out.",
+      "nkjv": "Proverbs 10:9 – He who walks with integrity walks securely, but he who perverts his ways will become known.",
+      "kjv": "Proverbs 10:9 – He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.",
+      "csb": "Proverbs 10:9 – The one who lives with integrity lives securely, but whoever perverts his ways will be found out.",
+      "nasb": "Proverbs 10:9 – One who walks in integrity walks securely, but one who perverts his ways will be found out.",
+      "ceb": "Proverbs 10:9 – People with integrity walk securely, but those who follow crooked paths will be exposed."
+    },
+    {
+      "niv": "Proverbs 11:25 – A generous person will prosper; whoever refreshes others will be refreshed.",
+      "esv": "Proverbs 11:25 – Whoever brings blessing will be enriched, and one who waters will himself be watered.",
+      "nkjv": "Proverbs 11:25 – The generous soul will be made rich, and he who waters will also be watered himself.",
+      "kjv": "Proverbs 11:25 – The liberal soul shall be made fat: and he that watereth shall be watered also himself.",
+      "csb": "Proverbs 11:25 – A generous person will be enriched, and the one who gives a drink of water will receive water.",
+      "nasb": "Proverbs 11:25 – A generous person will be prosperous, and one who gives others plenty of water will himself be given plenty.",
+      "ceb": "Proverbs 11:25 – Generous persons will prosper; those who refresh others will themselves be refreshed."
+    },
+    {
+      "niv": "Proverbs 14:29 – Whoever is patient has great understanding, but one who is quick-tempered displays folly.",
+      "esv": "Proverbs 14:29 – Whoever is slow to anger has great understanding, but he who has a hasty temper exalts folly.",
+      "nkjv": "Proverbs 14:29 – He who is slow to wrath has great understanding, but he who is impulsive exalts folly.",
+      "kjv": "Proverbs 14:29 – He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.",
+      "csb": "Proverbs 14:29 – A patient person shows great understanding, but a quick-tempered one promotes foolishness.",
+      "nasb": "Proverbs 14:29 – One who is slow to anger has great understanding, but one who is quick-tempered exalts foolishness.",
+      "ceb": "Proverbs 14:29 – Patience leads to abundant understanding, but a short temper will get you into trouble."
+    },
+    {
+      "niv": "Proverbs 16:3 – Commit to the Lord whatever you do, and he will establish your plans.",
+      "esv": "Proverbs 16:3 – Commit your work to the Lord, and your plans will be established.",
+      "nkjv": "Proverbs 16:3 – Commit your works to the Lord, and your thoughts will be established.",
+      "kjv": "Proverbs 16:3 – Commit thy works unto the Lord, and thy thoughts shall be established.",
+      "csb": "Proverbs 16:3 – Commit your activities to the Lord, and your plans will be established.",
+      "nasb": "Proverbs 16:3 – Commit your works to the Lord, and your plans will be established.",
+      "ceb": "Proverbs 16:3 – Entrust your work to the Lord, and your plans will succeed."
+    },
+    {
+      "niv": "Proverbs 19:20 – Listen to advice and accept discipline, and at the end you will be counted among the wise.",
+      "esv": "Proverbs 19:20 – Listen to advice and accept instruction, that you may gain wisdom in the future.",
+      "nkjv": "Proverbs 19:20 – Listen to counsel and receive instruction, that you may be wise in your latter days.",
+      "kjv": "Proverbs 19:20 – Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
+      "csb": "Proverbs 19:20 – Listen to counsel and receive instruction so that you may be wise later in life.",
+      "nasb": "Proverbs 19:20 – Listen to advice and accept discipline, so that you may be wise the rest of your days.",
+      "ceb": "Proverbs 19:20 – Listen to advice and accept discipline; then you, too, will be wise."
+    },
+    {
+      "niv": "Proverbs 20:22 – Do not say, 'I’ll pay you back for this wrong!' Wait for the Lord, and he will avenge you.",
+      "esv": "Proverbs 20:22 – Do not say, 'I will repay evil'; wait for the Lord, and he will deliver you.",
+      "nkjv": "Proverbs 20:22 – Do not say, 'I will recompense evil'; wait for the Lord, and He will save you.",
+      "kjv": "Proverbs 20:22 – Say not thou, I will recompense evil; but wait on the Lord, and he shall save thee.",
+      "csb": "Proverbs 20:22 – Don’t say, 'I will avenge this evil!' Wait on the Lord, and he will rescue you.",
+      "nasb": "Proverbs 20:22 – Do not say, 'I will repay evil'; wait for the Lord, and He will save you.",
+      "ceb": "Proverbs 20:22 – Don’t say, 'I’ll repay the evil done to me!' Wait for the Lord, and he will see that you are repaid."
+    },
+    {
+      "niv": "Proverbs 22:6 – Start children off on the way they should go, and even when they are old they will not turn from it.",
+      "esv": "Proverbs 22:6 – Train up a child in the way he should go; even when he is old he will not depart from it.",
+      "nkjv": "Proverbs 22:6 – Train up a child in the way he should go, and when he is old he will not depart from it.",
+      "kjv": "Proverbs 22:6 – Train up a child in the way he should go: and when he is old, he will not depart from it.",
+      "csb": "Proverbs 22:6 – Start a youth out on his way; even when he grows old he will not depart from it.",
+      "nasb": "Proverbs 22:6 – Train up a child in the way he should go, even when he grows older he will not abandon it.",
+      "ceb": "Proverbs 22:6 – Train children in the way they should go; when they grow old, they won’t depart from it."
+    },
+    {
+      "niv": "Proverbs 23:12 – Apply your heart to instruction and your ears to words of knowledge.",
+      "esv": "Proverbs 23:12 – Apply your heart to instruction and your ear to words of knowledge.",
+      "nkjv": "Proverbs 23:12 – Apply your heart to instruction, and your ears to words of knowledge.",
+      "kjv": "Proverbs 23:12 – Apply thine heart unto instruction, and thine ears to the words of knowledge.",
+      "csb": "Proverbs 23:12 – Apply yourself to discipline and listen to words of knowledge.",
+      "nasb": "Proverbs 23:12 – Apply your heart to discipline, and your ears to words of knowledge.",
+      "ceb": "Proverbs 23:12 – Focus your heart on instruction and your ears on knowledge-filled words."
+    },
+    {
+      "niv": "Proverbs 25:28 – Like a city whose walls are broken through is a person who lacks self-control.",
+      "esv": "Proverbs 25:28 – A man without self-control is like a city broken into and left without walls.",
+      "nkjv": "Proverbs 25:28 – Whoever has no rule over his own spirit is like a city broken down, without walls.",
+      "kjv": "Proverbs 25:28 – He that hath no rule over his own spirit is like a city that is broken down, and without walls.",
+      "csb": "Proverbs 25:28 – A person who does not control his temper is like a city whose wall is broken down.",
+      "nasb": "Proverbs 25:28 – Like a city that is broken into and without walls so is a person who has no self-control over his spirit.",
+      "ceb": "Proverbs 25:28 – A person without self-control is like a breached city, one with no walls."
+    },
+    {
+      "niv": "Proverbs 26:12 – Do you see a person wise in their own eyes? There is more hope for a fool than for them.",
+      "esv": "Proverbs 26:12 – Do you see a man who is wise in his own eyes? There is more hope for a fool than for him.",
+      "nkjv": "Proverbs 26:12 – Do you see a man wise in his own eyes? There is more hope for a fool than for him.",
+      "kjv": "Proverbs 26:12 – Seest thou a man wise in his own conceit? There is more hope of a fool than of him.",
+      "csb": "Proverbs 26:12 – Do you see a person who is wise in his own eyes? There is more hope for a fool than for him.",
+      "nasb": "Proverbs 26:12 – Do you see a person wise in his own eyes? There is more hope for a fool than for him.",
+      "ceb": "Proverbs 26:12 – Do you see persons who think they are wise? There is more hope for a fool than for them."
+    },
+    {
+      "niv": "Proverbs 28:1 – The wicked flee though no one pursues, but the righteous are as bold as a lion.",
+      "esv": "Proverbs 28:1 – The wicked flee when no one pursues, but the righteous are bold as a lion.",
+      "nkjv": "Proverbs 28:1 – The wicked flee when no one pursues, but the righteous are bold as a lion.",
+      "kjv": "Proverbs 28:1 – The wicked flee when no man pursueth: but the righteous are bold as a lion.",
+      "csb": "Proverbs 28:1 – The wicked flee when no one is pursuing them, but the righteous are as bold as a lion.",
+      "nasb": "Proverbs 28:1 – The wicked flee when no one is pursuing, but the righteous are bold as a lion.",
+      "ceb": "Proverbs 28:1 – The wicked run away when no one chases them, but the righteous are as bold as a lion."
+    },
+    {
+      "niv": "Proverbs 30:5 – Every word of God is flawless; he is a shield to those who take refuge in him.",
+      "esv": "Proverbs 30:5 – Every word of God proves true; he is a shield to those who take refuge in him.",
+      "nkjv": "Proverbs 30:5 – Every word of God is pure; He is a shield to those who put their trust in Him.",
+      "kjv": "Proverbs 30:5 – Every word of God is pure: he is a shield unto them that put their trust in him.",
+      "csb": "Proverbs 30:5 – Every word of God is pure; he is a shield to those who take refuge in him.",
+      "nasb": "Proverbs 30:5 – Every word of God is pure; He is a shield to those who take refuge in Him.",
+      "ceb": "Proverbs 30:5 – Every word of God is tried and true; he is a shield for those who take refuge in him."
+    },
+    {
+      "niv": "Proverbs 31:30 – Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised.",
+      "esv": "Proverbs 31:30 – Charm is deceitful, and beauty is vain, but a woman who fears the Lord is to be praised.",
+      "nkjv": "Proverbs 31:30 – Charm is deceitful and beauty is passing, but a woman who fears the Lord, she shall be praised.",
+      "kjv": "Proverbs 31:30 – Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, she shall be praised.",
+      "csb": "Proverbs 31:30 – Charm is deceptive and beauty is fleeting, but a woman who fears the Lord will be praised.",
+      "nasb": "Proverbs 31:30 – Charm is deceitful and beauty is vain, but a woman who fears the Lord, she shall be praised.",
+      "ceb": "Proverbs 31:30 – Charm is deceptive and beauty fleeting, but a woman who fears the Lord is to be praised."
+    },
+  
+    {
+      "niv": "Proverbs 4:23 – Above all else, guard your heart, for everything you do flows from it.",
+      "esv": "Proverbs 4:23 – Keep your heart with all vigilance, for from it flow the springs of life.",
+      "nkjv": "Proverbs 4:23 – Keep your heart with all diligence, For out of it spring the issues of life.",
+      "kjv": "Proverbs 4:23 – Keep thy heart with all diligence; for out of it are the issues of life.",
+      "csb": "Proverbs 4:23 – Guard your heart above all else, for it is the source of life.",
+      "nasb": "Proverbs 4:23 – Watch over your heart with all diligence, For from it flow the springs of life.",
+      "ceb": "Proverbs 4:23 – More than anything you guard, protect your mind, for life flows from it."
+    },
+    {
+      "niv": "Proverbs 9:10 – The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.",
+      "esv": "Proverbs 9:10 – The fear of the Lord is the beginning of wisdom, and the knowledge of the Holy One is insight.",
+      "nkjv": "Proverbs 9:10 – The fear of the Lord is the beginning of wisdom, And the knowledge of the Holy One is understanding.",
+      "kjv": "Proverbs 9:10 – The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is understanding.",
+      "csb": "Proverbs 9:10 – The fear of the Lord is the beginning of wisdom, and the knowledge of the Holy One is understanding.",
+      "nasb": "Proverbs 9:10 – The fear of the Lord is the beginning of wisdom, And the knowledge of the Holy One is understanding.",
+      "ceb": "Proverbs 9:10 – The beginning of wisdom is the fear of the Lord; the knowledge of the holy one is understanding."
+    },
+    {
+      "niv": "Proverbs 12:1 – Whoever loves discipline loves knowledge, but whoever hates correction is stupid.",
+      "esv": "Proverbs 12:1 – Whoever loves discipline loves knowledge, but he who hates reproof is stupid.",
+      "nkjv": "Proverbs 12:1 – Whoever loves instruction loves knowledge, But he who hates correction is stupid.",
+      "kjv": "Proverbs 12:1 – Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.",
+      "csb": "Proverbs 12:1 – Whoever loves discipline loves knowledge, but one who hates correction is stupid.",
+      "nasb": "Proverbs 12:1 – One who loves discipline loves knowledge, But one who hates rebuke is stupid.",
+      "ceb": "Proverbs 12:1 – Those who love discipline love knowledge, but those who hate correction are stupid."
+    },
+    {
+      "niv": "Proverbs 13:20 – Walk with the wise and become wise, for a companion of fools suffers harm.",
+      "esv": "Proverbs 13:20 – Whoever walks with the wise becomes wise, but the companion of fools will suffer harm.",
+      "nkjv": "Proverbs 13:20 – He who walks with wise men will be wise, But the companion of fools will be destroyed.",
+      "kjv": "Proverbs 13:20 – He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.",
+      "csb": "Proverbs 13:20 – The one who walks with the wise will become wise, but a companion of fools will suffer harm.",
+      "nasb": "Proverbs 13:20 – One who walks with wise people will be wise, But a companion of fools will suffer harm.",
+      "ceb": "Proverbs 13:20 – Walk with wise people and become wise; befriend fools and get in trouble."
+    },
+    {
+      "niv": "Proverbs 14:23 – All hard work brings a profit, but mere talk leads only to poverty.",
+      "esv": "Proverbs 14:23 – In all toil there is profit, but mere talk tends only to poverty.",
+      "nkjv": "Proverbs 14:23 – In all labor there is profit, But idle chatter leads only to poverty.",
+      "kjv": "Proverbs 14:23 – In all labour there is profit: but the talk of the lips tendeth only to penury.",
+      "csb": "Proverbs 14:23 – There is profit in all hard work, but endless talk leads only to poverty.",
+      "nasb": "Proverbs 14:23 – In all hard work there is profit, But mere talk leads only to poverty.",
+      "ceb": "Proverbs 14:23 – There is profit in hard work, but mere talk leads to poverty."
+    },
+    {
+      "niv": "Proverbs 15:1 – A gentle answer turns away wrath, but a harsh word stirs up anger.",
+      "esv": "Proverbs 15:1 – A soft answer turns away wrath, but a harsh word stirs up anger.",
+      "nkjv": "Proverbs 15:1 – A soft answer turns away wrath, But a harsh word stirs up anger.",
+      "kjv": "Proverbs 15:1 – A soft answer turneth away wrath: but grievous words stir up anger.",
+      "csb": "Proverbs 15:1 – A gentle answer turns away anger, but a harsh word stirs up wrath.",
+      "nasb": "Proverbs 15:1 – A gentle answer turns away wrath, But a harsh word stirs up anger.",
+      "ceb": "Proverbs 15:1 – A sensitive answer turns back wrath, but an offensive word stirs up anger."
+    },
+    {
+      "niv": "Proverbs 17:22 – A cheerful heart is good medicine, but a crushed spirit dries up the bones.",
+      "esv": "Proverbs 17:22 – A joyful heart is good medicine, but a crushed spirit dries up the bones.",
+      "nkjv": "Proverbs 17:22 – A merry heart does good, like medicine, But a broken spirit dries the bones.",
+      "kjv": "Proverbs 17:22 – A merry heart doeth good like a medicine: but a broken spirit drieth the bones.",
+      "csb": "Proverbs 17:22 – A joyful heart is good medicine, but a broken spirit dries up the bones.",
+      "nasb": "Proverbs 17:22 – A joyful heart is good medicine, But a broken spirit dries up the bones.",
+      "ceb": "Proverbs 17:22 – A joyful heart helps healing, but a broken spirit dries up the bones."
+    },
+    {
+      "niv": "Proverbs 18:10 – The name of the Lord is a fortified tower; the righteous run to it and are safe.",
+      "esv": "Proverbs 18:10 – The name of the Lord is a strong tower; the righteous man runs into it and is safe.",
+      "nkjv": "Proverbs 18:10 – The name of the Lord is a strong tower; The righteous run to it and are safe.",
+      "kjv": "Proverbs 18:10 – The name of the Lord is a strong tower: the righteous runneth into it, and is safe.",
+      "csb": "Proverbs 18:10 – The name of the Lord is a strong tower; the righteous run to it and are protected.",
+      "nasb": "Proverbs 18:10 – The name of the Lord is a strong tower; The righteous runs into it and is safe.",
+      "ceb": "Proverbs 18:10 – The Lord’s name is a strong tower; the righteous run to it and find refuge."
+    },
+    {
+      "niv": "Proverbs 20:7 – The righteous lead blameless lives; blessed are their children after them.",
+      "esv": "Proverbs 20:7 – The righteous who walks in his integrity— blessed are his children after him!",
+      "nkjv": "Proverbs 20:7 – The righteous man walks in his integrity; His children are blessed after him.",
+      "kjv": "Proverbs 20:7 – The just man walketh in his integrity: his children are blessed after him.",
+      "csb": "Proverbs 20:7 – A righteous person acts with integrity; his children who come after him will be happy.",
+      "nasb": "Proverbs 20:7 – A righteous person who walks in his integrity— How blessed are his sons after him.",
+      "ceb": "Proverbs 20:7 – The righteous live with integrity; happy are their children who come after them."
+    },
+    {
+      "niv": "Proverbs 21:3 – To do what is right and just is more acceptable to the Lord than sacrifice.",
+      "esv": "Proverbs 21:3 – To do righteousness and justice is more acceptable to the Lord than sacrifice.",
+      "nkjv": "Proverbs 21:3 – To do righteousness and justice Is more acceptable to the Lord than sacrifice.",
+      "kjv": "Proverbs 21:3 – To do justice and judgment is more acceptable to the Lord than sacrifice.",
+      "csb": "Proverbs 21:3 – Doing what is righteous and just is more acceptable to the Lord than sacrifice.",
+      "nasb": "Proverbs 21:3 – To do righteousness and justice Is preferred by the Lord more than sacrifice.",
+      "ceb": "Proverbs 21:3 – Acting with righteousness and justice is more valued by the Lord than sacrifice."
+    },
+    {
+      "niv": "Proverbs 22:1 – A good name is more desirable than great riches; to be esteemed is better than silver or gold.",
+      "esv": "Proverbs 22:1 – A good name is to be chosen rather than great riches, and favor is better than silver or gold.",
+      "nkjv": "Proverbs 22:1 – A good name is to be chosen rather than great riches, Loving favor rather than silver and gold.",
+      "kjv": "Proverbs 22:1 – A good name is rather to be chosen than great riches, and loving favour rather than silver and gold.",
+      "csb": "Proverbs 22:1 – A good name is to be chosen over great wealth; favor is better than silver and gold.",
+      "nasb": "Proverbs 22:1 – A good name is to be more desired than great wealth; Favor is better than silver and gold.",
+      "ceb": "Proverbs 22:1 – A good reputation is better than much wealth; high esteem is better than silver and gold."
+    },
+    {
+      "niv": "Proverbs 23:18 – There is surely a future hope for you, and your hope will not be cut off.",
+      "esv": "Proverbs 23:18 – Surely there is a future, and your hope will not be cut off.",
+      "nkjv": "Proverbs 23:18 – For surely there is a hereafter, And your hope will not be cut off.",
+      "kjv": "Proverbs 23:18 – For surely there is an end; and thine expectation shall not be cut off.",
+      "csb": "Proverbs 23:18 – For then you will have a future, and your hope will not be dashed.",
+      "nasb": "Proverbs 23:18 – Certainly there is a future, And your hope will not be cut off.",
+      "ceb": "Proverbs 23:18 – There is definitely a future for you, and your hope will not be crushed."
+    },
+    {
+      "niv": "Proverbs 24:16 – For though the righteous fall seven times, they rise again, but the wicked stumble when calamity strikes.",
+      "esv": "Proverbs 24:16 – For the righteous falls seven times and rises again, but the wicked stumble in times of calamity.",
+      "nkjv": "Proverbs 24:16 – For a righteous man may fall seven times And rise again, But the wicked shall fall by calamity.",
+      "kjv": "Proverbs 24:16 – For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.",
+      "csb": "Proverbs 24:16 – Though a righteous person falls seven times, he will get up, but the wicked will stumble into ruin.",
+      "nasb": "Proverbs 24:16 – For a righteous person falls seven times and rises again, But the wicked stumble in time of disaster.",
+      "ceb": "Proverbs 24:16 – The righteous may fall seven times but still get up, while the wicked will stumble into trouble."
+    },
+    {
+      "niv": "Proverbs 26:11 – As a dog returns to its vomit, so fools repeat their folly.",
+      "esv": "Proverbs 26:11 – Like a dog that returns to his vomit is a fool who repeats his folly.",
+      "nkjv": "Proverbs 26:11 – As a dog returns to his own vomit, So a fool repeats his folly.",
+      "kjv": "Proverbs 26:11 – As a dog returneth to his vomit, so a fool returneth to his folly.",
+      "csb": "Proverbs 26:11 – As a dog returns to its vomit, so also a fool repeats his foolishness.",
+      "nasb": "Proverbs 26:11 – Like a dog that returns to its vomit, So is a fool who repeats his foolishness.",
+      "ceb": "Proverbs 26:11 – Like a dog that goes back to its vomit, so a fool repeats his stupidity."
+    },
+    {
+      "niv": "Proverbs 27:17 – As iron sharpens iron, so one person sharpens another.",
+      "esv": "Proverbs 27:17 – Iron sharpens iron, and one man sharpens another.",
+      "nkjv": "Proverbs 27:17 – As iron sharpens iron, So a man sharpens the countenance of his friend.",
+      "kjv": "Proverbs 27:17 – Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.",
+      "csb": "Proverbs 27:17 – Iron sharpens iron, and one person sharpens another.",
+      "nasb": "Proverbs 27:17 – As iron sharpens iron, So one person sharpens another.",
+      "ceb": "Proverbs 27:17 – Iron sharpens iron, and friends sharpen each other’s faces."
+    },
+    {
+      "niv": "Proverbs 29:25 – Fear of man will prove to be a snare, but whoever trusts in the Lord is kept safe.",
+      "esv": "Proverbs 29:25 – The fear of man lays a snare, but whoever trusts in the Lord is safe.",
+      "nkjv": "Proverbs 29:25 – The fear of man brings a snare, But whoever trusts in the Lord shall be safe.",
+      "kjv": "Proverbs 29:25 – The fear of man bringeth a snare: but whoso putteth his trust in the Lord shall be safe.",
+      "csb": "Proverbs 29:25 – The fear of mankind is a snare, but the one who trusts in the Lord is protected.",
+      "nasb": "Proverbs 29:25 – The fear of man brings a snare, But one who trusts in the Lord will be protected.",
+      "ceb": "Proverbs 29:25 – People are trapped by their fear of others; those who trust the Lord are secure."
+    },
+    {
+      "niv": "Proverbs 19:11 – A person’s wisdom yields patience; it is to one’s glory to overlook an offense.",
+      "esv": "Proverbs 19:11 – Good sense makes one slow to anger, and it is his glory to overlook an offense.",
+      "nkjv": "Proverbs 19:11 – The discretion of a man makes him slow to anger, And his glory is to overlook a transgression.",
+      "kjv": "Proverbs 19:11 – The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.",
+      "csb": "Proverbs 19:11 – A person’s insight gives him patience, and his virtue is to overlook an offense.",
+      "nasb": "Proverbs 19:11 – A person’s discretion makes him slow to anger, And it is his honor to overlook a wrongdoing.",
+      "ceb": "Proverbs 19:11 – Insightful people restrain their anger; their glory is to ignore an offense."
+    },
+    {
+      "niv": "Proverbs 12:18 – The words of the reckless pierce like swords, but the tongue of the wise brings healing.",
+      "esv": "Proverbs 12:18 – There is one whose rash words are like sword thrusts, but the tongue of the wise brings healing.",
+      "nkjv": "Proverbs 12:18 – There is one who speaks like the piercings of a sword, But the tongue of the wise promotes health.",
+      "kjv": "Proverbs 12:18 – There is that speaketh like the piercings of a sword: but the tongue of the wise is health.",
+      "csb": "Proverbs 12:18 – There is one who speaks rashly, like a piercing sword; but the tongue of the wise brings healing.",
+      "nasb": "Proverbs 12:18 – There is one who speaks rashly like the thrusts of a sword, But the tongue of the wise brings healing.",
+      "ceb": "Proverbs 12:18 – Some chatter on like a stabbing sword, but a wise person’s words heal."
+    },
+    {
+      "niv": "Proverbs 15:33 – Wisdom’s instruction is to fear the Lord, and humility comes before honor.",
+      "esv": "Proverbs 15:33 – The fear of the Lord is instruction in wisdom, and humility comes before honor.",
+      "nkjv": "Proverbs 15:33 – The fear of the Lord is the instruction of wisdom, And before honor is humility.",
+      "kjv": "Proverbs 15:33 – The fear of the Lord is the instruction of wisdom; and before honour is humility.",
+      "csb": "Proverbs 15:33 – The fear of the Lord is what wisdom teaches, and humility comes before honor.",
+      "nasb": "Proverbs 15:33 – The fear of the Lord is the instruction for wisdom, And before honor comes humility.",
+      "ceb": "Proverbs 15:33 – The fear of the Lord is wise instruction, and humility comes before honor."
+    },
+    {
+      "niv": "Proverbs 20:5 – The purposes of a person’s heart are deep waters, but one who has insight draws them out.",
+      "esv": "Proverbs 20:5 – The purpose in a man’s heart is like deep water, but a man of understanding will draw it out.",
+      "nkjv": "Proverbs 20:5 – Counsel in the heart of man is like deep water, But a man of understanding will draw it out.",
+      "kjv": "Proverbs 20:5 – Counsel in the heart of man is like deep water; but a man of understanding will draw it out.",
+      "csb": "Proverbs 20:5 – Counsel in a person’s heart is deep water; but a person of understanding draws it out.",
+      "nasb": "Proverbs 20:5 – A plan in the heart of a person is like deep water, But a person of understanding draws it out.",
+      "ceb": "Proverbs 20:5 – Advice comes from the deep waters of the heart; those with understanding can draw it out."
+    },
+    {
+      "niv": "Proverbs 3:9 – Honor the Lord with your wealth, with the firstfruits of all your crops.",
+      "esv": "Proverbs 3:9 – Honor the Lord with your wealth and with the firstfruits of all your produce.",
+      "nkjv": "Proverbs 3:9 – Honor the Lord with your possessions, And with the firstfruits of all your increase.",
+      "kjv": "Proverbs 3:9 – Honour the Lord with thy substance, and with the firstfruits of all thine increase.",
+      "csb": "Proverbs 3:9 – Honor the Lord with your possessions and with the first produce of your entire harvest.",
+      "nasb": "Proverbs 3:9 – Honor the Lord from your wealth, And from the first of all your produce.",
+      "ceb": "Proverbs 3:9 – Honor the Lord with your wealth and with the first of all your crops."
+    },
+    {
+      "niv": "Proverbs 8:35 – For those who find me find life and receive favor from the Lord.",
+      "esv": "Proverbs 8:35 – For whoever finds me finds life and obtains favor from the Lord.",
+      "nkjv": "Proverbs 8:35 – For whoever finds me finds life, And obtains favor from the Lord.",
+      "kjv": "Proverbs 8:35 – For whoso findeth me findeth life, and shall obtain favour of the Lord.",
+      "csb": "Proverbs 8:35 – For the one who finds me finds life and obtains favor from the Lord.",
+      "nasb": "Proverbs 8:35 – For one who finds me finds life, And obtains favor from the Lord.",
+      "ceb": "Proverbs 8:35 – Those who find me find life; they gain favor from the Lord."
+    },
+    {
+      "niv": "Proverbs 13:3 – Those who guard their lips preserve their lives, but those who speak rashly will come to ruin.",
+      "esv": "Proverbs 13:3 – Whoever guards his mouth preserves his life; he who opens wide his lips comes to ruin.",
+      "nkjv": "Proverbs 13:3 – He who guards his mouth preserves his life, But he who opens wide his lips shall have destruction.",
+      "kjv": "Proverbs 13:3 – He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.",
+      "csb": "Proverbs 13:3 – The one who guards his mouth protects his life; the one who opens his lips invites his own ruin.",
+      "nasb": "Proverbs 13:3 – One who guards his mouth protects his life; One who opens his lips wide comes to ruin.",
+      "ceb": "Proverbs 13:3 – Those who watch their mouths guard their lives; those who open their lips too wide will be ruined."
+    },
+    {
+      "niv": "Proverbs 21:23 – Those who guard their mouths and their tongues keep themselves from calamity.",
+      "esv": "Proverbs 21:23 – Whoever keeps his mouth and his tongue keeps himself out of trouble.",
+      "nkjv": "Proverbs 21:23 – Whoever guards his mouth and tongue Keeps his soul from troubles.",
+      "kjv": "Proverbs 21:23 – Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
+      "csb": "Proverbs 21:23 – The one who guards his mouth and tongue keeps himself out of trouble.",
+      "nasb": "Proverbs 21:23 – One who guards his mouth and his tongue, Guards his soul from troubles.",
+      "ceb": "Proverbs 21:23 – Those who guard their mouths and their tongues guard themselves from trouble."
+    },
+    {
+      "niv": "Proverbs 11:2 – When pride comes, then comes disgrace, but with humility comes wisdom.",
+      "esv": "Proverbs 11:2 – When pride comes, then comes disgrace, but with the humble is wisdom.",
+      "nkjv": "Proverbs 11:2 – When pride comes, then comes shame; But with the humble is wisdom.",
+      "kjv": "Proverbs 11:2 – When pride cometh, then cometh shame: but with the lowly is wisdom.",
+      "csb": "Proverbs 11:2 – When arrogance comes, disgrace follows, but with humility comes wisdom.",
+      "nasb": "Proverbs 11:2 – When pride comes, then comes dishonor; But with the humble there is wisdom.",
+      "ceb": "Proverbs 11:2 – When pride comes, so does shame, but wisdom brings humility."
+    },
+    {
+      "niv": "Proverbs 12:25 – Anxiety weighs down the heart, but a kind word cheers it up.",
+      "esv": "Proverbs 12:25 – Anxiety in a man's heart weighs him down, but a good word makes him glad.",
+      "nkjv": "Proverbs 12:25 – Anxiety in the heart of man causes depression, But a good word makes it glad.",
+      "kjv": "Proverbs 12:25 – Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.",
+      "csb": "Proverbs 12:25 – Anxiety in a person’s heart weighs it down, but a good word cheers it up.",
+      "nasb": "Proverbs 12:25 – Anxiety in a person’s heart weighs it down, But a good word makes it glad.",
+      "ceb": "Proverbs 12:25 – Worry weighs a person down; an encouraging word makes them joyful."
+    },
+    {
+      "niv": "Proverbs 14:21 – It is a sin to despise one's neighbor, but blessed is the one who is kind to the needy.",
+      "esv": "Proverbs 14:21 – Whoever despises his neighbor is a sinner, but blessed is he who is generous to the poor.",
+      "nkjv": "Proverbs 14:21 – He who despises his neighbor sins; But he who has mercy on the poor, happy is he.",
+      "kjv": "Proverbs 14:21 – He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he.",
+      "csb": "Proverbs 14:21 – The one who despises his neighbor sins, but whoever shows kindness to the poor will be happy.",
+      "nasb": "Proverbs 14:21 – One who despises his neighbor sins, But one who is gracious to the poor is blessed.",
+      "ceb": "Proverbs 14:21 – Those who despise their neighbors are sinners, but happy are those who are kind to the poor."
+    },
+    {
+      "niv": "Proverbs 15:22 – Plans fail for lack of counsel, but with many advisers they succeed.",
+      "esv": "Proverbs 15:22 – Without counsel plans fail, but with many advisers they succeed.",
+      "nkjv": "Proverbs 15:22 – Without counsel, plans go awry, But in the multitude of counselors they are established.",
+      "kjv": "Proverbs 15:22 – Without counsel purposes are disappointed: but in the multitude of counsellors they are established.",
+      "csb": "Proverbs 15:22 – Plans fail when there is no counsel, but with many advisers they succeed.",
+      "nasb": "Proverbs 15:22 – Without consultation, plans are frustrated, But with many counselors they succeed.",
+      "ceb": "Proverbs 15:22 – Plans fail without advice, but with many counselors they are confirmed."
+    },
+    {
+      "niv": "Proverbs 17:27 – The one who has knowledge uses words with restraint, and whoever has understanding is even-tempered.",
+      "esv": "Proverbs 17:27 – Whoever restrains his words has knowledge, and he who has a cool spirit is a man of understanding.",
+      "nkjv": "Proverbs 17:27 – He who has knowledge spares his words, And a man of understanding is of a calm spirit.",
+      "kjv": "Proverbs 17:27 – He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit.",
+      "csb": "Proverbs 17:27 – The one who has knowledge restrains his words, and one who keeps a cool head is a person of understanding.",
+      "nasb": "Proverbs 17:27 – One who withholds his words has knowledge, And one who has a cool spirit is a person of understanding.",
+      "ceb": "Proverbs 17:27 – Wise people keep quiet about what they know, but foolish talkers talk too much."
+    },
+    {
+      "niv": "Proverbs 18:15 – The heart of the discerning acquires knowledge, for the ears of the wise seek it out.",
+      "esv": "Proverbs 18:15 – An intelligent heart acquires knowledge, and the ear of the wise seeks knowledge.",
+      "nkjv": "Proverbs 18:15 – The heart of the prudent acquires knowledge, And the ear of the wise seeks knowledge.",
+      "kjv": "Proverbs 18:15 – The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.",
+      "csb": "Proverbs 18:15 – The mind of the discerning acquires knowledge, and the ear of the wise seeks it.",
+      "nasb": "Proverbs 18:15 – The mind of the discerning acquires knowledge, And the ear of the wise seeks knowledge.",
+      "ceb": "Proverbs 18:15 – An understanding mind gains knowledge; the ear of the wise seeks knowledge."
+    },
+    {
+      "niv": "Proverbs 19:11 – A person’s wisdom yields patience; it is to one’s glory to overlook an offense.",
+      "esv": "Proverbs 19:11 – Good sense makes one slow to anger, and it is his glory to overlook an offense.",
+      "nkjv": "Proverbs 19:11 – The discretion of a man makes him slow to anger, And his glory is to overlook a transgression.",
+      "kjv": "Proverbs 19:11 – The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.",
+      "csb": "Proverbs 19:11 – A person’s insight gives him patience, and his virtue is to overlook an offense.",
+      "nasb": "Proverbs 19:11 – A person’s discretion makes him slow to anger, And it is his glory to overlook an offense.",
+      "ceb": "Proverbs 19:11 – Insight makes a person slow to anger, and it is to one’s glory to overlook an offense."
+    },
+    {
+      "niv": "Proverbs 20:5 – The purposes of a person’s heart are deep waters, but one who has insight draws them out.",
+      "esv": "Proverbs 20:5 – The purpose in a man's heart is like deep water, but a man of understanding will draw it out.",
+      "nkjv": "Proverbs 20:5 – Counsel in the heart of man is like deep water, But a man of understanding will draw it out.",
+      "kjv": "Proverbs 20:5 – Counsel in the heart of man is like deep water; but a man of understanding will draw it out.",
+      "csb": "Proverbs 20:5 – Counsel in a person’s heart is deep water; but a person of understanding draws it out.",
+      "nasb": "Proverbs 20:5 – A plan in the heart of a person is like deep water, But a person of understanding draws it out.",
+      "ceb": "Proverbs 20:5 – Advice comes from the deep waters of the heart, but those with understanding can draw it out."
+    },
+    {
+      "niv": "Proverbs 21:5 – The plans of the diligent lead to profit as surely as haste leads to poverty.",
+      "esv": "Proverbs 21:5 – The plans of the diligent lead surely to abundance, but everyone who is hasty comes only to poverty.",
+      "nkjv": "Proverbs 21:5 – The plans of the diligent lead surely to plenty, But those of everyone who is hasty, surely to poverty.",
+      "kjv": "Proverbs 21:5 – The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.",
+      "csb": "Proverbs 21:5 – The plans of the diligent certainly lead to profit, but anyone who is reckless certainly becomes poor.",
+      "nasb": "Proverbs 21:5 – The plans of the diligent certainly lead to advantage, But everyone who is in a hurry certainly comes to poverty.",
+      "ceb": "Proverbs 21:5 – The plans of the diligent end up in profit, but those who hurry end up in poverty."
+    },
+    {
+      "niv": "Proverbs 22:9 – The generous will themselves be blessed, for they share their food with the poor.",
+      "esv": "Proverbs 22:9 – Whoever has a bountiful eye will be blessed, for he shares his bread with the poor.",
+      "nkjv": "Proverbs 22:9 – He who has a generous eye will be blessed, For he gives of his bread to the poor.",
+      "kjv": "Proverbs 22:9 – He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.",
+      "csb": "Proverbs 22:9 – A generous person will be blessed, for he shares his food with the poor.",
+      "nasb": "Proverbs 22:9 – A generous person will be blessed, For he gives some of his food to the poor.",
+      "ceb": "Proverbs 22:9 – Those who are generous are blessed, for they share their food with the poor."
+    },
+    {
+      "niv": "Proverbs 24:5 – The wise prevail through great power, and those who have knowledge muster their strength.",
+      "esv": "Proverbs 24:5 – A wise man is full of strength, and a man of knowledge enhances his might.",
+      "nkjv": "Proverbs 24:5 – A wise man is strong, Yes, a man of knowledge increases strength.",
+      "kjv": "Proverbs 24:5 – A wise man is strong; yea, a man of knowledge increaseth strength.",
+      "csb": "Proverbs 24:5 – A wise warrior is better than a strong one, and a man of knowledge than one of strength.",
+      "nasb": "Proverbs 24:5 – A wise person is strong, And a person of knowledge increases power.",
+      "ceb": "Proverbs 24:5 – Wisdom makes a person powerful, and knowledge increases strength."
+    },
+    {
+      "niv": "Proverbs 25:11 – Like apples of gold in settings of silver is a ruling rightly given.",
+      "esv": "Proverbs 25:11 – A word fitly spoken is like apples of gold in a setting of silver.",
+      "nkjv": "Proverbs 25:11 – A word fitly spoken is like apples of gold In settings of silver.",
+      "kjv": "Proverbs 25:11 – A word fitly spoken is like apples of gold in pictures of silver.",
+      "csb": "Proverbs 25:11 – A word spoken at the right time is like gold apples in silver settings.",
+      "nasb": "Proverbs 25:11 – Like apples of gold in settings of silver, Is a word spoken at the proper time.",
+      "ceb": "Proverbs 25:11 – Words spoken at the right time are like gold apples in a silver setting."
+    },
+    {
+      "niv": "Proverbs 26:20 – Without wood a fire goes out; without a gossip a quarrel dies down.",
+      "esv": "Proverbs 26:20 – For lack of wood the fire goes out, and where there is no whisperer, quarreling ceases.",
+      "nkjv": "Proverbs 26:20 – Where there is no wood, the fire goes out; And where there is no talebearer, strife ceases.",
+      "kjv": "Proverbs 26:20 – Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.",
+      "csb": "Proverbs 26:20 – Without wood, fire goes out; without a gossip, conflict dies down.",
+      "nasb": "Proverbs 26:20 – For lack of wood the fire goes out, And where there is no gossiper, quarreling quiets down.",
+      "ceb": "Proverbs 26:20 – When there’s no wood, the fire goes out; when there’s no gossiper, conflict calms down."
+    },
+    {
+      "niv": "Proverbs 27:2 – Let someone else praise you, and not your own mouth; an outsider, and not your own lips.",
+      "esv": "Proverbs 27:2 – Let another praise you, and not your own mouth; a stranger, and not your own lips.",
+      "nkjv": "Proverbs 27:2 – Let another man praise you, and not your own mouth; A stranger, and not your own lips.",
+      "kjv": "Proverbs 27:2 – Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.",
+      "csb": "Proverbs 27:2 – Let another praise you, and not your own mouth—a stranger, and not your own lips.",
+      "nasb": "Proverbs 27:2 – Let someone else praise you, and not your own mouth; A stranger, and not your own lips.",
+      "ceb": "Proverbs 27:2 – Let another person praise you, and not your own mouth; a stranger, and not your own lips."
+    },
+    {
+      "niv": "Proverbs 29:11 – Fools give full vent to their rage, but the wise bring calm in the end.",
+      "esv": "Proverbs 29:11 – A fool gives full vent to his spirit, but a wise man quietly holds it back.",
+      "nkjv": "Proverbs 29:11 – A fool vents all his feelings, But a wise man holds them back.",
+      "kjv": "Proverbs 29:11 – A fool uttereth all his mind: but a wise man keepeth it in till afterwards.",
+      "csb": "Proverbs 29:11 – A fool gives full vent to his anger, but a wise person holds it in check.",
+      "nasb": "Proverbs 29:11 – A fool lets his anger be known, But a wise person keeps it in check.",
+      "ceb": "Proverbs 29:11 – Fools show all their anger, but the wise hold it back."
+    },
+    {
+      "niv": "Proverbs 30:8 – Keep falsehood and lies far from me; give me neither poverty nor riches, but give me only my daily bread.",
+      "esv": "Proverbs 30:8 – Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me.",
+      "nkjv": "Proverbs 30:8 – Remove falsehood and lies far from me; Give me neither poverty nor riches—Feed me with the food allotted to me.",
+      "kjv": "Proverbs 30:8 – Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me.",
+      "csb": "Proverbs 30:8 – Keep falsehood and deceitful words far from me. Give me neither poverty nor wealth; feed me with the food I need.",
+      "nasb": "Proverbs 30:8 – Keep deception and lies far from me, Give me neither poverty nor riches; Feed me with the food that is my portion.",
+      "ceb": "Proverbs 30:8 – Take lies and deception far from me. Don’t give me either poverty or wealth; give me just the food I need."
+    },
+    {
+      "niv": "Proverbs 31:25 – She is clothed with strength and dignity; she can laugh at the days to come.",
+      "esv": "Proverbs 31:25 – Strength and dignity are her clothing, and she laughs at the time to come.",
+      "nkjv": "Proverbs 31:25 – Strength and honor are her clothing; She shall rejoice in time to come.",
+      "kjv": "Proverbs 31:25 – Strength and honour are her clothing; and she shall rejoice in time to come.",
+      "csb": "Proverbs 31:25 – Strength and honor are her clothing, and she can laugh at the time to come.",
+      "nasb": "Proverbs 31:25 – Strength and dignity are her clothing, And she smiles at the future.",
+      "ceb": "Proverbs 31:25 – Strength and honor are her clothing; she is confident about the future."
+    },
+    {
+      "niv": "Proverbs 3:7 – Do not be wise in your own eyes; fear the Lord and shun evil.",
+      "esv": "Proverbs 3:7 – Be not wise in your own eyes; fear the Lord, and turn away from evil.",
+      "nkjv": "Proverbs 3:7 – Do not be wise in your own eyes; Fear the Lord and depart from evil.",
+      "kjv": "Proverbs 3:7 – Be not wise in thine own eyes: fear the Lord, and depart from evil.",
+      "csb": "Proverbs 3:7 – Don’t be wise in your own eyes; fear the Lord and turn away from evil.",
+      "nasb": "Proverbs 3:7 – Do not be wise in your own eyes; Fear the Lord and turn away from evil.",
+      "ceb": "Proverbs 3:7 – Don’t consider yourself wise. Fear the Lord and turn away from evil."
+    },
+    {
+      "niv": "Proverbs 12:15 – The way of fools seems right to them, but the wise listen to advice.",
+      "esv": "Proverbs 12:15 – The way of a fool is right in his own eyes, but a wise man listens to advice.",
+      "nkjv": "Proverbs 12:15 – The way of a fool is right in his own eyes, But he who heeds counsel is wise.",
+      "kjv": "Proverbs 12:15 – The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.",
+      "csb": "Proverbs 12:15 – A fool’s way is right in his own eyes, but whoever listens to counsel is wise.",
+      "nasb": "Proverbs 12:15 – The way of a fool is right in his own eyes, But a person who listens to advice is wise.",
+      "ceb": "Proverbs 12:15 – Fools see their own way as right, but the wise listen to advice."
+    },
+    {
+      "niv": "Proverbs 16:9 – In their hearts humans plan their course, but the Lord establishes their steps.",
+      "esv": "Proverbs 16:9 – The heart of man plans his way, but the Lord establishes his steps.",
+      "nkjv": "Proverbs 16:9 – A man’s heart plans his way, But the Lord directs his steps.",
+      "kjv": "Proverbs 16:9 – A man's heart deviseth his way: but the Lord directeth his steps.",
+      "csb": "Proverbs 16:9 – A person’s heart plans his way, but the Lord determines his steps.",
+      "nasb": "Proverbs 16:9 – The mind of a person plans his way, But the Lord directs his steps.",
+      "ceb": "Proverbs 16:9 – People plan their path, but the Lord secures their steps."
+    },
+    {
+      "niv": "Proverbs 19:11 – A person’s wisdom yields patience; it is to one’s glory to overlook an offense.",
+      "esv": "Proverbs 19:11 – Good sense makes one slow to anger, and it is his glory to overlook an offense.",
+      "nkjv": "Proverbs 19:11 – The discretion of a man makes him slow to anger, And his glory is to overlook a transgression.",
+      "kjv": "Proverbs 19:11 – The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.",
+      "csb": "Proverbs 19:11 – A person’s insight gives him patience, and his virtue is to overlook an offense.",
+      "nasb": "Proverbs 19:11 – A person’s discretion makes him slow to anger, And it is his glory to overlook an offense.",
+      "ceb": "Proverbs 19:11 – Insightful people restrain their anger; their glory is to ignore an offense."
+    },
+    {
+      "niv": "Proverbs 21:5 – The plans of the diligent lead to profit as surely as haste leads to poverty.",
+      "esv": "Proverbs 21:5 – The plans of the diligent lead surely to abundance, but everyone who is hasty comes only to poverty.",
+      "nkjv": "Proverbs 21:5 – The plans of the diligent lead surely to plenty, But those of everyone who is hasty, surely to poverty.",
+      "kjv": "Proverbs 21:5 – The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.",
+      "csb": "Proverbs 21:5 – The plans of the diligent certainly lead to profit, but anyone who is reckless certainly becomes poor.",
+      "nasb": "Proverbs 21:5 – The plans of the diligent certainly lead to advantage, But everyone who is in a hurry certainly comes to poverty.",
+      "ceb": "Proverbs 21:5 – The plans of the diligent end up in profit, but those who hurry end up with loss."
+    },
+    {
+      "niv": "Proverbs 22:29 – Do you see someone skilled in their work? They will serve before kings; they will not serve before officials of low rank.",
+      "esv": "Proverbs 22:29 – Do you see a man skillful in his work? He will stand before kings; he will not stand before obscure men.",
+      "nkjv": "Proverbs 22:29 – Do you see a man who excels in his work? He will stand before kings; He will not stand before unknown men.",
+      "kjv": "Proverbs 22:29 – Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.",
+      "csb": "Proverbs 22:29 – Do you see a person skilled in his work? He will stand in the presence of kings. He will not stand in the presence of the unknown.",
+      "nasb": "Proverbs 22:29 – Do you see a person skilled in his work? He will stand before kings; He will not stand before obscure people.",
+      "ceb": "Proverbs 22:29 – Do you see people who work skillfully? They will work for kings but not for commoners."
+    },
+    {
+      "niv": "Proverbs 24:3-4 – By wisdom a house is built, and through understanding it is established; through knowledge its rooms are filled with rare and beautiful treasures.",
+      "esv": "Proverbs 24:3-4 – By wisdom a house is built, and by understanding it is established; by knowledge the rooms are filled with all precious and pleasant riches.",
+      "nkjv": "Proverbs 24:3-4 – Through wisdom a house is built, And by understanding it is established; By knowledge the rooms are filled With all precious and pleasant riches.",
+      "kjv": "Proverbs 24:3-4 – Through wisdom is an house builded; and by understanding it is established: And by knowledge shall the chambers be filled with all precious and pleasant riches.",
+      "csb": "Proverbs 24:3-4 – A house is built by wisdom, and it is established by understanding; by knowledge the rooms are filled with every precious and beautiful treasure.",
+      "nasb": "Proverbs 24:3-4 – By wisdom a house is built, And by understanding it is established; And by knowledge the rooms are filled With all precious and pleasant riches.",
+      "ceb": "Proverbs 24:3-4 – By wisdom a house is built; by understanding it is established. By knowledge rooms are filled with all sorts of precious and pleasant riches."
+    },
+    {
+      "niv": "Proverbs 25:21-22 – If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink. In doing this, you will heap burning coals on his head, and the Lord will reward you.",
+      "esv": "Proverbs 25:21-22 – If your enemy is hungry, give him bread to eat, and if he is thirsty, give him water to drink, for you will heap burning coals on his head, and the Lord will reward you.",
+      "nkjv": "Proverbs 25:21-22 – If your enemy is hungry, give him bread to eat; And if he is thirsty, give him water to drink; For so you will heap coals of fire on his head, And the Lord will reward you.",
+      "kjv": "Proverbs 25:21-22 – If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink: For thou shalt heap coals of fire upon his head, and the Lord shall reward thee.",
+      "csb": "Proverbs 25:21-22 – If your enemy is hungry, give him food to eat, and if he is thirsty, give him water to drink, for you will heap burning coals on his head, and the Lord will reward you.",
+      "nasb": "Proverbs 25:21-22 – If your enemy is hungry, give him food to eat; And if he is thirsty, give him water to drink; For you will heap burning coals on his head, And the Lord will reward you.",
+      "ceb": "Proverbs 25:21-22 – If your enemies are starving, feed them some bread; if they are thirsty, give them water to drink. By doing this, you will pile burning coals on their heads, and the Lord will reward you."
+    },
+    {
+      "niv": "Proverbs 27:1 – Do not boast about tomorrow, for you do not know what a day may bring.",
+      "esv": "Proverbs 27:1 – Do not boast about tomorrow, for you do not know what a day may bring.",
+      "nkjv": "Proverbs 27:1 – Do not boast about tomorrow, For you do not know what a day may bring forth.",
+      "kjv": "Proverbs 27:1 – Boast not thyself of tomorrow; for thou knowest not what a day may bring forth.",
+      "csb": "Proverbs 27:1 – Don’t boast about tomorrow, for you don’t know what a day might bring.",
+      "nasb": "Proverbs 27:1 – Do not boast about tomorrow, For you do not know what a day may bring.",
+      "ceb": "Proverbs 27:1 – Don’t brag about tomorrow, for you don’t know what a day will bring."
+    },
+    {
+      "niv": "Proverbs 28:6 – Better the poor whose walk is blameless than the rich whose ways are perverse.",
+      "esv": "Proverbs 28:6 – Better is a poor man who walks in his integrity than a rich man who is crooked in his ways.",
+      "nkjv": "Proverbs 28:6 – Better is the poor who walks in his integrity Than one perverse in his ways, though he be rich.",
+      "kjv": "Proverbs 28:6 – Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich.",
+      "csb": "Proverbs 28:6 – Better the poor person who lives with integrity than the rich one who distorts right and wrong.",
+      "nasb": "Proverbs 28:6 – Better is a poor person who walks in his integrity, Than a person who is crooked, though he is rich.",
+      "ceb": "Proverbs 28:6 – Better to be poor and walk in innocence than to be on crooked paths and be rich."
+    },
+    {
+      "niv": "Proverbs 30:8-9 – Keep falsehood and lies far from me; give me neither poverty nor riches, but give me only my daily bread. Otherwise, I may have too much and disown you and say, ‘Who is the Lord?’ Or I may become poor and steal, and so dishonor the name of my God.",
+      "esv": "Proverbs 30:8-9 – Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me, lest I be full and deny you and say, ‘Who is the Lord?’ or lest I be poor and steal and profane the name of my God.",
+      "nkjv": "Proverbs 30:8-9 – Remove falsehood and lies far from me; Give me neither poverty nor riches—Feed me with the food allotted to me; Lest I be full and deny You, And say, ‘Who is the Lord?’ Or lest I be poor and steal, And profane the name of my God.",
+      "kjv": "Proverbs 30:8-9 – Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me: Lest I be full, and deny thee, and say, Who is the Lord? or lest I be poor, and steal, and take the name of my God in vain.",
+      "csb": "Proverbs 30:8-9 – Keep falsehood and deceitful words far from me. Give me neither poverty nor wealth; feed me with the food I need. Otherwise, I might have too much and deny you, saying, ‘Who is the Lord?’ or I might have nothing and steal, profaning the name of my God.",
+      "nasb": "Proverbs 30:8-9 – Keep deception and lies far from me, Give me neither poverty nor riches; Feed me with the food that is my portion, So that I will not be full and deny You and say, ‘Who is the Lord?’ And that I will not become impoverished and steal, And profane the name of my God.",
+      "ceb": "Proverbs 30:8-9 – Remove falsehood and lies far from me. Don’t give me either poverty or wealth; give me just the food I need. Or I’ll be full and deny you and say, ‘Who is the Lord?’ Or I’ll be poor and steal, and dishonor my God’s name."
+    },
+    {
+      "niv": "Proverbs 26:20 – Without wood a fire goes out; without a gossip a quarrel dies down.",
+      "esv": "Proverbs 26:20 – For lack of wood the fire goes out, and where there is no whisperer, quarreling ceases.",
+      "nkjv": "Proverbs 26:20 – Where there is no wood, the fire goes out; And where there is no talebearer, strife ceases.",
+      "kjv": "Proverbs 26:20 – Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.",
+      "csb": "Proverbs 26:20 – Without wood, fire goes out; without a gossip, conflict dies down.",
+      "nasb": "Proverbs 26:20 – For lack of wood the fire goes out, And where there is no gossiper, quarreling quiets down.",
+      "ceb": "Proverbs 26:20 – When there’s no wood, the fire goes out; when there’s no gossiper, arguments stop."
+    },
+    {
+      "niv": "Proverbs 27:19 – As water reflects the face, so one’s life reflects the heart.",
+      "esv": "Proverbs 27:19 – As in water face reflects face, so the heart of man reflects the man.",
+      "nkjv": "Proverbs 27:19 – As in water face reflects face, So a man’s heart reveals the man.",
+      "kjv": "Proverbs 27:19 – As in water face answereth to face, so the heart of man to man.",
+      "csb": "Proverbs 27:19 – As water reflects the face, so the heart reflects the person.",
+      "nasb": "Proverbs 27:19 – As in water a face reflects the face, So the heart of a person reflects the person.",
+      "ceb": "Proverbs 27:19 – Just as water reflects the face, so the human heart reflects the person."
+    },
+    {
+      "niv": "Proverbs 29:20 – Do you see someone who speaks in haste? There is more hope for a fool than for them.",
+      "esv": "Proverbs 29:20 – Do you see a man who is hasty in his words? There is more hope for a fool than for him.",
+      "nkjv": "Proverbs 29:20 – Do you see a man hasty in his words? There is more hope for a fool than for him.",
+      "kjv": "Proverbs 29:20 – Seest thou a man that is hasty in his words? there is more hope of a fool than of him.",
+      "csb": "Proverbs 29:20 – Do you see someone who speaks too soon? There is more hope for a fool than for him.",
+      "nasb": "Proverbs 29:20 – Do you see a person who is hasty with his words? There is more hope for a fool than for him.",
+      "ceb": "Proverbs 29:20 – Do you see people who are quick to speak? There is more hope for a fool than for them."
+    },
+    {
+      "niv": "Proverbs 31:26 – She speaks with wisdom, and faithful instruction is on her tongue.",
+      "esv": "Proverbs 31:26 – She opens her mouth with wisdom, and the teaching of kindness is on her tongue.",
+      "nkjv": "Proverbs 31:26 – She opens her mouth with wisdom, And on her tongue is the law of kindness.",
+      "kjv": "Proverbs 31:26 – She openeth her mouth with wisdom; and in her tongue is the law of kindness.",
+      "csb": "Proverbs 31:26 – She opens her mouth with wisdom and loving instruction is on her tongue.",
+      "nasb": "Proverbs 31:26 – She opens her mouth in wisdom, And the teaching of kindness is on her tongue.",
+      "ceb": "Proverbs 31:26 – She opens her mouth with wisdom; loving instruction is on her tongue."
+    },
+    {
+      "niv": "Proverbs 10:19 – Sin is not ended by multiplying words, but the prudent hold their tongues.",
+      "esv": "Proverbs 10:19 – When words are many, transgression is not lacking, but whoever restrains his lips is prudent.",
+      "nkjv": "Proverbs 10:19 – In the multitude of words sin is not lacking, But he who restrains his lips is wise.",
+      "kjv": "Proverbs 10:19 – In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.",
+      "csb": "Proverbs 10:19 – When there are many words, sin is unavoidable, but the one who controls his lips is prudent.",
+      "nasb": "Proverbs 10:19 – When there are many words, wrongdoing is unavoidable, But one who restrains his lips is wise.",
+      "ceb": "Proverbs 10:19 – Transgression isn’t lacking when it comes to talking too much, but those who restrain their lips are wise."
+    },
+    {
+      "niv": "Proverbs 13:3 – Those who guard their lips preserve their lives, but those who speak rashly will come to ruin.",
+      "esv": "Proverbs 13:3 – Whoever guards his mouth preserves his life; he who opens wide his lips comes to ruin.",
+      "nkjv": "Proverbs 13:3 – He who guards his mouth preserves his life, But he who opens wide his lips shall have destruction.",
+      "kjv": "Proverbs 13:3 – He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.",
+      "csb": "Proverbs 13:3 – The one who guards his mouth protects his life; the one who opens his lips invites his own ruin.",
+      "nasb": "Proverbs 13:3 – One who guards his mouth protects his life; One who opens wide his lips comes to ruin.",
+      "ceb": "Proverbs 13:3 – Those who guard their lips guard their lives, but those who talk too much are ruined."
+    },
+    {
+      "niv": "Proverbs 14:12 – There is a way that appears to be right, but in the end it leads to death.",
+      "esv": "Proverbs 14:12 – There is a way that seems right to a man, but its end is the way to death.",
+      "nkjv": "Proverbs 14:12 – There is a way that seems right to a man, But its end is the way of death.",
+      "kjv": "Proverbs 14:12 – There is a way which seemeth right unto a man, but the end thereof are the ways of death.",
+      "csb": "Proverbs 14:12 – There is a way that seems right to a person, but its end is the way to death.",
+      "nasb": "Proverbs 14:12 – There is a way which seems right to a person, But its end is the way of death.",
+      "ceb": "Proverbs 14:12 – There is a path that may seem straight to someone, but in the end it is a path to death."
+    },
+    {
+      "niv": "Proverbs 16:9 – In their hearts humans plan their course, but the Lord establishes their steps.",
+      "esv": "Proverbs 16:9 – The heart of man plans his way, but the Lord establishes his steps.",
+      "nkjv": "Proverbs 16:9 – A man’s heart plans his way, But the Lord directs his steps.",
+      "kjv": "Proverbs 16:9 – A man’s heart deviseth his way: but the Lord directeth his steps.",
+      "csb": "Proverbs 16:9 – A person’s heart plans his way, but the Lord determines his steps.",
+      "nasb": "Proverbs 16:9 – The mind of a person plans his way, But the Lord directs his steps.",
+      "ceb": "Proverbs 16:9 – People plan their path, but the Lord secures their steps."
+    },
+    {
+      "niv": "Proverbs 19:11 – A person’s wisdom yields patience; it is to one’s glory to overlook an offense.",
+      "esv": "Proverbs 19:11 – Good sense makes one slow to anger, and it is his glory to overlook an offense.",
+      "nkjv": "Proverbs 19:11 – The discretion of a man makes him slow to anger, And his glory is to overlook a transgression.",
+      "kjv": "Proverbs 19:11 – The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.",
+      "csb": "Proverbs 19:11 – A person’s insight gives him patience, and his virtue is to overlook an offense.",
+      "nasb": "Proverbs 19:11 – A person’s discretion makes him slow to anger, And it is his glory to overlook an offense.",
+      "ceb": "Proverbs 19:11 – Insightful people restrain their anger; their glory is to ignore an offense."
+    },
+    {
+      "niv": "Proverbs 20:5 – The purposes of a person’s heart are deep waters, but one who has insight draws them out.",
+      "esv": "Proverbs 20:5 – The purpose in a man’s heart is like deep water, but a man of understanding will draw it out.",
+      "nkjv": "Proverbs 20:5 – Counsel in the heart of man is like deep water, But a man of understanding will draw it out.",
+      "kjv": "Proverbs 20:5 – Counsel in the heart of man is like deep water; but a man of understanding will draw it out.",
+      "csb": "Proverbs 20:5 – Counsel in a person’s heart is deep water; but a person of understanding draws it out.",
+      "nasb": "Proverbs 20:5 – A plan in the heart of a person is like deep water, But a person of understanding draws it out.",
+      "ceb": "Proverbs 20:5 – Advice comes from the deep waters of the heart; those with understanding can draw it out."
+    },
+    {
+      "niv": "Proverbs 21:23 – Those who guard their mouths and their tongues keep themselves from calamity.",
+      "esv": "Proverbs 21:23 – Whoever keeps his mouth and his tongue keeps himself out of trouble.",
+      "nkjv": "Proverbs 21:23 – Whoever guards his mouth and tongue Keeps his soul from troubles.",
+      "kjv": "Proverbs 21:23 – Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
+      "csb": "Proverbs 21:23 – The one who guards his mouth and tongue keeps himself out of trouble.",
+      "nasb": "Proverbs 21:23 – One who guards his mouth and his tongue, Guards his soul from troubles.",
+      "ceb": "Proverbs 21:23 – Those who guard their mouths and tongues keep themselves out of trouble."
+    },
+    {
+      "niv": "Proverbs 24:10 – If you falter in a time of trouble, how small is your strength!",
+      "esv": "Proverbs 24:10 – If you faint in the day of adversity, your strength is small.",
+      "nkjv": "Proverbs 24:10 – If you faint in the day of adversity, Your strength is small.",
+      "kjv": "Proverbs 24:10 – If thou faint in the day of adversity, thy strength is small.",
+      "csb": "Proverbs 24:10 – If you do nothing in a difficult time, your strength is limited.",
+      "nasb": "Proverbs 24:10 – If you show yourself lacking courage on the day of distress, Your strength is meager.",
+      "ceb": "Proverbs 24:10 – If you show yourself weak on a day of distress, your strength is too small."
+    },
+    {
+      "niv": "Proverbs 27:2 – Let someone else praise you, and not your own mouth; an outsider, and not your own lips.",
+      "esv": "Proverbs 27:2 – Let another praise you, and not your own mouth; a stranger, and not your own lips.",
+      "nkjv": "Proverbs 27:2 – Let another man praise you, and not your own mouth; A stranger, and not your own lips.",
+      "kjv": "Proverbs 27:2 – Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.",
+      "csb": "Proverbs 27:2 – Let another praise you, and not your own mouth— a stranger, and not your own lips.",
+      "nasb": "Proverbs 27:2 – Let someone else praise you, and not your own mouth; A stranger, and not your own lips.",
+      "ceb": "Proverbs 27:2 – Let another person praise you, and not your own mouth; a stranger, and not your own lips."
+    },
+    {
+      "niv": "Proverbs 28:13 – Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy.",
+      "esv": "Proverbs 28:13 – Whoever conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy.",
+      "nkjv": "Proverbs 28:13 – He who covers his sins will not prosper, But whoever confesses and forsakes them will have mercy.",
+      "kjv": "Proverbs 28:13 – He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.",
+      "csb": "Proverbs 28:13 – The one who conceals his sins will not prosper, but whoever confesses and renounces them will find mercy.",
+      "nasb": "Proverbs 28:13 – One who conceals his wrongdoings will not prosper, But one who confesses and abandons them will find compassion.",
+      "ceb": "Proverbs 28:13 – Those who hide their sins won’t succeed, but those who confess and give them up will receive mercy."
+    }
+    
+
+  
+  
+  ]
+}

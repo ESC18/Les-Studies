@@ -1,0 +1,41 @@
+{
+    "videos": [
+      {
+        "title": "Morning Wisdom: Embrace the Day",
+        "description": "A thoughtful video to help you start your day with wisdom and clarity.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IVHY7niVL_U",
+        "thumbnailUrl": "https://example.com/path/to/thumbnail1.jpg"
+      },
+      {
+        "title": "Motivation Boost",
+        "description": "An energetic video that gives you a boost of motivation each morning.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nIi8hnhkxC0",
+        "thumbnailUrl": "https://example.com/path/to/thumbnail2.jpg"
+      },
+      {
+        "title": "Psalms Reflection",
+        "description": "A calming video featuring reflections on Psalms to soothe your soul. This is a test to determine how it handles each and every single thing blah blah",
+        "youtubeUrl": "https://www.youtube.com/watch?v=HwVDZ1Ulb7Y",
+        "thumbnailUrl": "https://example.com/path/to/thumbnail3.jpg"
+      },
+      {
+        "title": "Morning Wisdom: Embrace the Day",
+        "description": "A thoughtful video to help you start your day with wisdom and clarity.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IVHY7niVL_U",
+        "thumbnailUrl": "https://example.com/path/to/thumbnail1.jpg"
+      },
+      {
+        "title": "Motivation Boost",
+        "description": "An energetic video that gives you a boost of motivation each morning.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nIi8hnhkxC0",
+        "thumbnailUrl": "https://example.com/path/to/thumbnail2.jpg"
+      },
+      {
+        "title": "Psalms Reflection",
+        "description": "A calming video featuring reflections on Psalms to soothe your soul.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=HwVDZ1Ulb7Y",
+        "thumbnailUrl": "https://example.com/path/to/thumbnail3.jpg"
+      }
+    ]
+  }
+  
