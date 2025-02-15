@@ -1118,7 +1118,7 @@ h1 {
   position: absolute !important;
   right: 10px !important; /* Move it closer to the right */
   top: 10px !important; /* Center vertically */
-  transform: translateY(-50%, -50%);
+  transform: translate(-50%, -50%);
   width: 20px !important;
   height: 20px !important;
 }
