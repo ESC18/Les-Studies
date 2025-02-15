@@ -1108,3 +1108,9 @@ h1 {
   stroke: #ffbd2e9c !important;
   fill:#ffbd2e9c !important;
 }
+
+#settings-btn svg {
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+
