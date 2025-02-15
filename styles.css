@@ -1121,10 +1121,5 @@ h1 {
   vertical-align: middle;
   position: relative;
   top: 0px !important; /* Move it up or down slightly */
-  right: 5px !important; /* Move it right if it's too far left */
-}
-
-.favorite-star svg {
-  max-width: 100% !important;
-  max-height: 100% !important;
+  right: 0px !important; /* Move it right if it's too far left */
 }
