@@ -1117,7 +1117,7 @@ h1 {
 .favorite-btn {
   position: absolute !important;
   right: 10px !important; /* Move it closer to the right */
-  top: 50%; /* Center vertically */
+  top: 10px !important; /* Center vertically */
   transform: translateY(-50%);
   width: 20px !important;
   height: 20px !important;
