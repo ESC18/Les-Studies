@@ -802,16 +802,17 @@ h1 {
 
 /* Settings Button remains as is in the footer */
 #settings-btn {
-  width: 30px;
-  color: #ffbd2e9c;
-  background-color: transparent;
-  border: none;
-  border-radius: 2px;
-  font-size: 20px;
-  transition: transform 0.2s ease;
-  position: absolute;
-  right: 43px;
-  top: 12.5px;
+  width: 30px !important;
+  color: #ffbd2e9c !important;
+  visibility: visible !important;
+  background-color: transparent !important;
+  border: none !important;
+  border-radius: 2px !important;
+  font-size: 20px !important;
+  transition: transform 0.2s ease !important;
+  position: absolute !important;
+  right: 43px !important;
+  top: 12.5px !important;
 }
 #settings-btn:hover {
   transform: scale(1.1);
